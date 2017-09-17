@@ -9,7 +9,7 @@ This is the list of Android article divided into categories
 2. [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP)
 
 # Optimize your Android apps
-1. [Optimize your Android apps for Chromebooks] (https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
+1. [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
 
 # Source Code Diving
 1. [How Butterknife library works its magic](http://shikherverma.com/blog/Source-Code-Diving)
