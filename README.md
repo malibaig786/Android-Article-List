@@ -1,5 +1,5 @@
 # Android-Article-List
-This is the list of article divided into categories
+This is the list of Android article divided into categories
 
 # Background
 1. [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
