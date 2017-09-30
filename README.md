@@ -61,7 +61,11 @@ This is the list of Android article divided into categories
 # Libraries
 1. [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
 
+# ProGuard 
+1. [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
+
 # Kotlin
 1. [Modern Android development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
 2. [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
 3. [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
+4. [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
