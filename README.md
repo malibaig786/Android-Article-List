@@ -50,7 +50,9 @@ This is the list of Android article divided into categories
 
 # Testing
 1. [Register: Better In App Billing Testing on Android](https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc)
-2. [Kotlin Testability](https://blog.stylingandroid.com/category/kotlin/)
+2. [JUnit 5 User Guide](http://junit.org/junit5/docs/current/user-guide/#release-notes-5.0.0)
+3. [An IdlingResource for Espresso which wraps an RxJava Scheduler](https://github.com/square/RxIdler)
+4. [Kotlin Testability](https://blog.stylingandroid.com/category/kotlin/)
 
 # Android Things
 1. [Building a Google Assistant Controlled Android Things Device](https://www.captechconsulting.com/blogs/building-a-google-assistant-controlled-android-things-device)
