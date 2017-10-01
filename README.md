@@ -5,12 +5,17 @@ This is the list of Android article divided into categories
 ## ConstraintLayout
 1. [GUIDELINES, BARRIERS, CHAINS AND GROUPS](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
 
+# ButterKnife
+1. [How you use ButterKnife's debuggable=false processor option](https://gist.github.com/JakeWharton/bbd4d37367e11dba9e388e5d59314d47)
+
 # Background
 1. [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 # Database
 1. [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
 2. [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
+3. [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
+4. [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
 
 # From Design to Android
 1. [From design to android, part 1](http://saulmm.github.io/from-design-to-android-part1)
@@ -69,3 +74,4 @@ This is the list of Android article divided into categories
 2. [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
 3. [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
 4. [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
+5. [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html) 
