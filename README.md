@@ -20,7 +20,7 @@ This is the list of Android article divided into categories
 
 
 ## [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
-### - [Realm Is the Best Android Database Solution](https://www.toptal.com/android/realm-best-android-database-solution)
+- [Realm Is the Best Android Database Solution](https://www.toptal.com/android/realm-best-android-database-solution)
 
 # From Design to Android
 1. [From design to android, part 1](http://saulmm.github.io/from-design-to-android-part1)
