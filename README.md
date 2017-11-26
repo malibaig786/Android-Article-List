@@ -12,10 +12,15 @@ This is the list of Android article divided into categories
 1. [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 # Database
-1. [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
-2. [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
-3. [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
-4. [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
+- [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
+- [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
+- [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
+- [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
+- [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
+
+
+## [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
+### - [Realm Is the Best Android Database Solution](https://www.toptal.com/android/realm-best-android-database-solution)
 
 # From Design to Android
 1. [From design to android, part 1](http://saulmm.github.io/from-design-to-android-part1)
