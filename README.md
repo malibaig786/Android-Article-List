@@ -1,6 +1,11 @@
 # Android-Article-List
 This is the list of Android article divided into categories
 
+# Clean Code
+- [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
+- [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
+
+
 # Layouts
 ## ConstraintLayout
 1. [GUIDELINES, BARRIERS, CHAINS AND GROUPS](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
@@ -82,3 +87,4 @@ This is the list of Android article divided into categories
 3. [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
 4. [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 5. [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html) 
+    
