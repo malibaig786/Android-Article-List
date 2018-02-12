@@ -4,6 +4,13 @@ This is the list of Android article divided into categories
 # Clean Code
 - [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
+## Architecture
+- [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
+- [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
+## Android Architecture components
+- [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
+- [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
+
 
 # Design & UX
 - [Applying human-centered design to emerging technologies](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
@@ -38,6 +45,7 @@ This is the list of Android article divided into categories
 
 
 # MultiThreading & Background
+- [It’s time to ditch Loaders in Android](https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7)
 - [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 # Database
@@ -50,11 +58,8 @@ This is the list of Android article divided into categories
 ## [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
 - [Realm Is the Best Android Database Solution](https://www.toptal.com/android/realm-best-android-database-solution)
 
-# Architecture
-1. [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
-2. [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
-
 # Tools
+- [Frameless emulator window](https://developer.android.com/studio/releases/emulator.html)
 - [Quick Boot & the Top Features in the Android Emulator](https://android-developers.googleblog.com/2017/12/quick-boot-top-features-in-android.html)
 - [Diagnose and understand your app's GPU behavior with GAPID](https://android-developers.googleblog.com/2017/12/diagnose-and-understand-your-apps-gpu_13.html)
 - [Most elegant way of using Gson + Kotlin with default values and null safety](https://medium.com/@MaxMello/most-elegant-way-of-using-gson-kotlin-with-default-values-and-null-safety-b6216ac5328c)
@@ -62,6 +67,9 @@ This is the list of Android article divided into categories
 
 ## Gradle
 - [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
+
+## GIT
+- [Ooga-chaka: Git hooks to enforce code quality](https://proandroiddev.com/ooga-chaka-git-hooks-to-enforce-code-quality-11ce8d0d23cb)
 
 ## ProGuard 
 - [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
@@ -71,8 +79,8 @@ This is the list of Android article divided into categories
 - [Time for non-Time Lords](https://blog.stylingandroid.com/category/time/)
 - [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP)
 
-# Android Architecture components
-- [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
+# Firebase
+- [Understanding Cloud Firestore Security Rules](https://www.ericdecanini.com/2018/02/03/understanding-cloud-firestore-security-rules/)
 
 # Launch your App
 - [Automated Mobile Localization Process](https://proandroiddev.com/automated-mobile-localization-process-5e05b721bf69)
@@ -91,15 +99,16 @@ This is the list of Android article divided into categories
 - [Double Stuffed Security in Android Oreo](https://android-developers.googleblog.com/2017/12/double-stuffed-security-in-android-oreo.html)
 
 ## Debugging
-1. [Finding inter-procedural bugs at scale with Infer static analyzer](https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer/)
-2. [Hide your crashes gracefully (and still report them)](https://proandroiddev.com/hide-your-crashes-gracefully-and-still-report-them-9b1c85b25875)
-3. [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
+- [Finding inter-procedural bugs at scale with Infer static analyzer](https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer/)
+- [Hide your crashes gracefully (and still report them)](https://proandroiddev.com/hide-your-crashes-gracefully-and-still-report-them-9b1c85b25875)
+- [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
 
 ## Testing
-1. [Register: Better In App Billing Testing on Android](https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc)
-2. [JUnit 5 User Guide](http://junit.org/junit5/docs/current/user-guide/#release-notes-5.0.0)
-3. [An IdlingResource for Espresso which wraps an RxJava Scheduler](https://github.com/square/RxIdler)
-4. [Testability](https://blog.stylingandroid.com/category/kotlin/)
+- [Testing common modules](https://blog.kotlin-academy.com/testing-common-modules-66b39d641617)
+- [Register: Better In App Billing Testing on Android](https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc)
+- [JUnit 5 User Guide](http://junit.org/junit5/docs/current/user-guide/#release-notes-5.0.0)
+- [An IdlingResource for Espresso which wraps an RxJava Scheduler](https://github.com/square/RxIdler)
+- [Testability](https://blog.stylingandroid.com/category/kotlin/)
 - [An introduction to in-app A/B testing](https://medium.com/googleplaydev/an-introduction-to-in-app-a-b-testing-c5a9a69a3791)
 - [Use pre-launch and crash reports to improve your app](https://developer.android.com/distribute/best-practices/launch/pre-launch-crash-reports.html)
 - [Beta test your app with users to get invaluable early feedback](https://developer.android.com/distribute/best-practices/launch/beta-tests.html)
