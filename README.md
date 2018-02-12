@@ -1,6 +1,20 @@
 # Android-Article-List
 This is the list of Android article divided into categories
 
+# Design
+- [Applying human-centered design to emerging technologies](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
+
+# UX
+- [Design your app for decision-making](https://medium.com/googleplaydev/design-your-app-for-decision-making-e9e5745508e4)
+- [The right app rewards to boost motivation](https://medium.com/googleplaydev/the-right-app-rewards-to-boost-motivation-c1ec86390450)
+- [The promise of persuasive apps](https://medium.com/googleplaydev/the-promise-of-persuasive-apps-98b428ee18ef)
+- [Taking the guesswork out of paid user acquisition](https://medium.com/googleplaydev/taking-the-guesswork-out-of-paid-user-acquisition-720d9d74882e)
+
+
+# Monetization 
+- [Predicting your app’s monetization future](https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34)
+- [From app explorer to first-time buyer](https://medium.com/googleplaydev/from-app-explorer-to-first-time-buyer-6476be50893)
+
 # Clean Code
 - [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
@@ -39,6 +53,7 @@ This is the list of Android article divided into categories
 
 # Optimize your Android apps
 1. [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
+- [Shrinking APKs, growing installs](https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2)
 
 # Source Code Diving
 1. [How Butterknife library works its magic](http://shikherverma.com/blog/Source-Code-Diving)
@@ -65,6 +80,10 @@ This is the list of Android article divided into categories
 2. [JUnit 5 User Guide](http://junit.org/junit5/docs/current/user-guide/#release-notes-5.0.0)
 3. [An IdlingResource for Espresso which wraps an RxJava Scheduler](https://github.com/square/RxIdler)
 4. [Kotlin Testability](https://blog.stylingandroid.com/category/kotlin/)
+- [An introduction to in-app A/B testing](https://medium.com/googleplaydev/an-introduction-to-in-app-a-b-testing-c5a9a69a3791)
+- [Use pre-launch and crash reports to improve your app](https://developer.android.com/distribute/best-practices/launch/pre-launch-crash-reports.html)
+- [Beta test your app with users to get invaluable early feedback](https://developer.android.com/distribute/best-practices/launch/beta-tests.html)
+- [Faster Renewals for Test Subscriptions](https://android-developers.googleblog.com/2018/01/faster-renewals-for-test-subscriptions.html)
 
 # Android Things
 1. [Building a Google Assistant Controlled Android Things Device](https://www.captechconsulting.com/blogs/building-a-google-assistant-controlled-android-things-device)
@@ -89,4 +108,11 @@ This is the list of Android article divided into categories
 3. [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
 4. [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 5. [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html) 
-    
+
+# Games
+- [Who plays mobile games?](https://medium.com/googleplaydev/who-plays-mobile-games-8b33f76bb6d8)
+- [Why the first ten minutes are crucial if you want to keep players coming back](https://medium.com/googleplaydev/why-the-first-ten-minutes-is-crucial-if-you-want-to-keep-players-coming-back-to-your-mobile-game-4a89031b6308)
+- [Five tips to improve your games-as-a-service monetization](https://medium.com/googleplaydev/five-tips-to-improve-your-games-as-a-service-monetization-1a99cccdf21)
+
+# AR
+- [Rethinking interface assumptions in AR: selecting objects](https://medium.com/googleplaydev/rethinking-interface-assumptions-in-ar-selecting-objects-a6675c7c1d1c)
