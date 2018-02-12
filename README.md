@@ -102,12 +102,26 @@ This is the list of Android article divided into categories
 # ProGuard 
 1. [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 
+# Security
+- [Shut the HAL Up](https://android-developers.googleblog.com/2017/07/shut-hal-up.html)
+- [Hardening the Kernel in Android Oreo](https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html)
+- [Changes to Device Identifiers in Android O](https://android-developers.googleblog.com/2017/04/changes-to-device-identifiers-in.html)
+- [Android O to drop insecure TLS version fallback in HttpsURLConnection](https://android-developers.googleblog.com/2017/04/android-o-to-drop-insecure-tls-version.html)
+- [Making it safer to get apps on Android O](https://android-developers.googleblog.com/2017/08/making-it-safer-to-get-apps-on-android-o.html)
+- [Double Stuffed Security in Android Oreo](https://android-developers.googleblog.com/2017/12/double-stuffed-security-in-android-oreo.html)
+
+
+
 # Kotlin
 1. [Modern Android development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
 2. [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
 3. [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
 4. [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
-5. [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html) 
+5. [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
+
+# Android TV
+- [Phasing out legacy recommendations on Android TV](https://android-developers.googleblog.com/2017/12/phasing-out-legacy-recommendations-on.html)
+
 
 # Games
 - [Who plays mobile games?](https://medium.com/googleplaydev/who-plays-mobile-games-8b33f76bb6d8)
