@@ -3,6 +3,7 @@ This is the list of Android article divided into categories
 
 # Design
 - [Applying human-centered design to emerging technologies](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
+- [Tuning your apps and games for long screen devices](https://android-developers.googleblog.com/2017/12/tuning-your-apps-and-games-for-long.html)
 
 # UX
 - [Design your app for decision-making](https://medium.com/googleplaydev/design-your-app-for-decision-making-e9e5745508e4)
@@ -10,6 +11,8 @@ This is the list of Android article divided into categories
 - [The promise of persuasive apps](https://medium.com/googleplaydev/the-promise-of-persuasive-apps-98b428ee18ef)
 - [Taking the guesswork out of paid user acquisition](https://medium.com/googleplaydev/taking-the-guesswork-out-of-paid-user-acquisition-720d9d74882e)
 
+# Google Play
+- [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 
 # Monetization 
 - [Predicting your app’s monetization future](https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34)
@@ -75,6 +78,11 @@ This is the list of Android article divided into categories
 1. [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
 2. [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
 
+# Tools
+- [Quick Boot & the Top Features in the Android Emulator](https://android-developers.googleblog.com/2017/12/quick-boot-top-features-in-android.html)
+- [Diagnose and understand your app's GPU behavior with GAPID](https://android-developers.googleblog.com/2017/12/diagnose-and-understand-your-apps-gpu_13.html)
+
+
 # Testing
 1. [Register: Better In App Billing Testing on Android](https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc)
 2. [JUnit 5 User Guide](http://junit.org/junit5/docs/current/user-guide/#release-notes-5.0.0)
@@ -86,23 +94,31 @@ This is the list of Android article divided into categories
 - [Faster Renewals for Test Subscriptions](https://android-developers.googleblog.com/2018/01/faster-renewals-for-test-subscriptions.html)
 
 # Android Things
-1. [Building a Google Assistant Controlled Android Things Device](https://www.captechconsulting.com/blogs/building-a-google-assistant-controlled-android-things-device)
-2. [Android Things – Piezzo Transducer, PWM on the Rainbow Hat](http://blog.blundellapps.co.uk/tut-android-things-piezzo-transducer-pwm-on-the-rainbow-hat/)
-3. [Building a Guitar Chord Tutor for Actions on Google: Part One](https://medium.com/@hitherejoe/building-a-guitar-chord-tutor-for-google-actions-part-one-975e4f855e58)
+- [IoT Developer Story: Deeplocal](https://android-developers.googleblog.com/2018/02/iot-developer-story-deeplocal.html)
+- [New Products At CES powered by Android Things](https://android-developers.googleblog.com/2018/01/new-products-at-ces-powered-by-android.html)
+- [Android Things Developer Preview 6](https://android-developers.googleblog.com/2017/11/android-things-developer-preview-6.html)
+- [LoWPAN on Android Things](https://android-developers.googleblog.com/2017/12/lowpan-on-android-things.html)
+- [Building a Google Assistant Controlled Android Things Device](https://www.captechconsulting.com/blogs/building-a-google-assistant-controlled-android-things-device)
+- [Android Things – Piezzo Transducer, PWM on the Rainbow Hat](http://blog.blundellapps.co.uk/tut-android-things-piezzo-transducer-pwm-on-the-rainbow-hat/)
+- [Building a Guitar Chord Tutor for Actions on Google: Part One](https://medium.com/@hitherejoe/building-a-guitar-chord-tutor-for-google-actions-part-one-975e4f855e58)
+
+# Android Wear
+- [Android Wear SDK and Emulator Update](https://android-developers.googleblog.com/2018/01/android-wear-sdk-and-emulator-update.html)
 
 # Open Source
-1. [Including Open Source Notices](https://developers.google.com/android/guides/opensource)
+- [Including Open Source Notices](https://developers.google.com/android/guides/opensource)
 
 # Parsing
-1. [Creating a Custom Type Adapter for Moshi](https://medium.com/@emmaguy/creating-a-custom-type-adapter-for-moshi-ae7e1cf469a9)
+- [Creating a Custom Type Adapter for Moshi](https://medium.com/@emmaguy/creating-a-custom-type-adapter-for-moshi-ae7e1cf469a9)
 
 # Libraries
-1. [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
+- [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
 
 # ProGuard 
-1. [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
+- [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 
 # Security
+- [Improving app security and performance on Google Play for years to come](https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html)
 - [Shut the HAL Up](https://android-developers.googleblog.com/2017/07/shut-hal-up.html)
 - [Hardening the Kernel in Android Oreo](https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html)
 - [Changes to Device Identifiers in Android O](https://android-developers.googleblog.com/2017/04/changes-to-device-identifiers-in.html)
