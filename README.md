@@ -122,6 +122,7 @@ This is the list of Android article divided into categories
 - [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
 
 ## Testing
+- [The Ultimate Guide to Mobile Application Testing Strategy](http://axblog.sigos.com/ultimate-guide-mobile-application-testing-strategy?utm_source=linkedin&utm_medium=social&utm_campaign=blog20171207&utm_content=post&utm_term=dap)
 - [Testing Android UI with Pleasure](https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821)
 - [Testing common modules](https://blog.kotlin-academy.com/testing-common-modules-66b39d641617)
 - [Register: Better In App Billing Testing on Android](https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc)
