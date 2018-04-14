@@ -1,6 +1,9 @@
 # Android-Article-List
 This is the list of Android article divided into categories
 
+# RecyclerView
+- [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
+
 # Clean Code
 - [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
