@@ -2,7 +2,12 @@
 This is the list of Android article divided into categories
 
 # Shortcuts
--[Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
+- [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
+
+# Views
+
+## ImageView
+- [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
 
 # RecyclerView
 - [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
