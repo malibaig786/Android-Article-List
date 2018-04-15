@@ -154,6 +154,7 @@ This is the list of Android article divided into categories
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 
 # Kotlin
+- [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
 - [Parcelable in Kotlin? Here comes Parcelize](https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac)
 - [Exploring KTX for Android](https://medium.com/exploring-android/exploring-ktx-for-android-13a369795b51)
 - [Why starting a new Android project with Java is a bad idea](https://medium.com/snapp-mobile/why-starting-a-new-android-project-with-java-is-a-bad-idea-359bffe0bbd6)
