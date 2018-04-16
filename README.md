@@ -1,10 +1,18 @@
 # Android-Article-List
 This is the list of Android article divided into categories
 
+# Complete Tutorials
+- [Build Your First Android App: A Time Zone Converter](https://dragosholban.com/2018/02/24/build-your-first-android-app-a-time-zone-converter)
+
 # Shortcuts
 - [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
 
 # Views
+
+# TextView
+- [Underspanding spans](https://medium.com/google-developers/underspanding-spans-1b91008b97e4)
+- [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
+- [Android-Text-Sample](https://github.com/googlesamples/android-text)
 
 ## ImageView
 - [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
@@ -28,6 +36,7 @@ This is the list of Android article divided into categories
 - [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
 - [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
 - [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
+- [Types as tests: How to fail the build when there’s a logical error](https://proandroiddev.com/types-as-tests-how-to-fail-the-build-when-theres-a-logical-error-e7000e2f62b8)
 
 
 # Design & UX
@@ -50,6 +59,7 @@ This is the list of Android article divided into categories
 # DataBinding
 - [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
 - [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
+- [Android-Databinding-Sample](https://github.com/googlesamples/android-databinding)
 
 ## ButterKnife
 - [How you use ButterKnife's debuggable=false processor option](https://gist.github.com/JakeWharton/bbd4d37367e11dba9e388e5d59314d47)
@@ -101,6 +111,7 @@ This is the list of Android article divided into categories
 - [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
 
 ## GIT
+- [Pretty Handy](https://twitter.com/JakeWharton/status/982253714315460608)
 - [Ooga-chaka: Git hooks to enforce code quality](https://proandroiddev.com/ooga-chaka-git-hooks-to-enforce-code-quality-11ce8d0d23cb)
 
 ## ProGuard 
@@ -150,6 +161,9 @@ This is the list of Android article divided into categories
 - [Faster Renewals for Test Subscriptions](https://android-developers.googleblog.com/2018/01/faster-renewals-for-test-subscriptions.html)
 - [Testing in-app purchases on Android](https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878)
 
+## Unit Testing
+- [Unit tests on Android with Kotlin](https://antonioleiva.com/unit-tests-android-kotlin)
+
 ## Monetization 
 - [Predicting your app’s monetization future](https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34)
 - [From app explorer to first-time buyer](https://medium.com/googleplaydev/from-app-explorer-to-first-time-buyer-6476be50893)
@@ -158,9 +172,16 @@ This is the list of Android article divided into categories
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 
 # Kotlin
+- [Effective Java in Kotlin, item 1:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
+- [Effective Java in Kotlin, item 2:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-2-consider-a-builder-when-faced-with-many-constructor-parameters-1927e69608e1)
+- [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 - [Understanding the power of generics ](https://antonioleiva.com/generic-functions-kotlin/)
+- [The Ins and Outs of Generic Variance in Kotlin](https://typealias.com/guides/ins-and-outs-of-generic-variance)
+- [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
 - [Traversing through dates with Kotlin range expressions](https://www.netguru.co/codestories/traversing-through-dates-with-kotlin-range-expressions)
 - [31DaysofKotlin](https://twitter.com/i/moments/980488782406303744)
+- [31DaysOfKotlin — Week 1 Recap](https://medium.com/google-developers/31daysofkotlin-week-1-recap-fbd5a622ef86)
+- [31DaysOfKotlin — Week 2 Recap](https://medium.com/google-developers/31daysofkotlin-week-2-recap-9eedcd18ef8)
 - [Summary of #31DaysOfKotlin](https://proandroiddev.com/summary-of-31daysofkotlin-68319d1d4972)
 - [Kotlin: When to Use Lazy or Lateinit](https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/)
 - [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
@@ -175,6 +196,12 @@ This is the list of Android article divided into categories
 - [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 - [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
 - [An Introduction to Kotlin Multiplatform Projects](https://www.novoda.com/blog/introduction-to-kotlin-multiplatform/)
+
+## Retrofit
+- - [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
+
+## Dagger 2
+- [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
 
 # Android TV
 - [Phasing out legacy recommendations on Android TV](https://android-developers.googleblog.com/2017/12/phasing-out-legacy-recommendations-on.html)
