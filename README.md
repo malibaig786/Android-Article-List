@@ -9,6 +9,9 @@ This is the list of Android article divided into categories
 ## ImageView
 - [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
 
+## ImageView
+- [Make your custom view 60fps in Android](https://medium.com/rosberryapps/make-your-custom-view-60fps-in-android-4587bbffa557)
+
 # RecyclerView
 - [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
 
@@ -21,6 +24,7 @@ This is the list of Android article divided into categories
 - [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
 - [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
 ## Android Architecture components
+- [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
 - [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
 - [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
 - [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
@@ -154,6 +158,10 @@ This is the list of Android article divided into categories
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 
 # Kotlin
+- [Understanding the power of generics ](https://antonioleiva.com/generic-functions-kotlin/)
+- [Traversing through dates with Kotlin range expressions](https://www.netguru.co/codestories/traversing-through-dates-with-kotlin-range-expressions)
+- [31DaysofKotlin](https://twitter.com/i/moments/980488782406303744)
+- [Summary of #31DaysOfKotlin](https://proandroiddev.com/summary-of-31daysofkotlin-68319d1d4972)
 - [Kotlin: When to Use Lazy or Lateinit](https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/)
 - [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
 - [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
