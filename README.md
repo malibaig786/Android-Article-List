@@ -9,7 +9,7 @@ This is the list of Android article divided into categories
 
 # Views
 
-# TextView
+## TextView
 - [Underspanding spans](https://medium.com/google-developers/underspanding-spans-1b91008b97e4)
 - [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
 - [Android-Text-Sample](https://github.com/googlesamples/android-text)
