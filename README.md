@@ -17,27 +17,28 @@ This is the list of Android article divided into categories
 ## ImageView
 - [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
 
-## ImageView
-- [Make your custom view 60fps in Android](https://medium.com/rosberryapps/make-your-custom-view-60fps-in-android-4587bbffa557)
-
 # RecyclerView
 - [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
+
+## CustomView
+- [Make your custom view 60fps in Android](https://medium.com/rosberryapps/make-your-custom-view-60fps-in-android-4587bbffa557)
 
 # Clean Code
 - [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
+
 ## Architecture
 - [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
 - [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
 - [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
 - [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
+
 ## Android Architecture components
 - [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
 - [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
 - [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
 - [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
 - [Types as tests: How to fail the build when there’s a logical error](https://proandroiddev.com/types-as-tests-how-to-fail-the-build-when-theres-a-logical-error-e7000e2f62b8)
-
 
 # Design & UX
 - [Applying human-centered design to emerging technologies](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
@@ -55,6 +56,7 @@ This is the list of Android article divided into categories
 
 ## ConstraintLayout
 - [GUIDELINES, BARRIERS, CHAINS AND GROUPS](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
+- [Build awesome animations with 7 lines of code using ConstraintLayout](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
 
 # DataBinding
 - [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
@@ -76,7 +78,6 @@ This is the list of Android article divided into categories
 # Animation
 - [Move content to side in Drawer Layout Android](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/)
 - [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
-
 
 # MultiThreading & Background
 - [It’s time to ditch Loaders in Android](https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7)
@@ -107,7 +108,11 @@ This is the list of Android article divided into categories
 - [Most elegant way of using Gson + Kotlin with default values and null safety](https://medium.com/@MaxMello/most-elegant-way-of-using-gson-kotlin-with-default-values-and-null-safety-b6216ac5328c)
 - [Creating a Custom Type Adapter for Moshi](https://medium.com/@emmaguy/creating-a-custom-type-adapter-for-moshi-ae7e1cf469a9)
 
+## Android Profiler
+- [Quick Tip: Network Profiler in Android Studio 3.1](https://android.jlelse.eu/quick-tip-network-profiler-in-android-studio-3-1-491e530ac8f2)
+
 ## Gradle
+- [How I reduced my Android build times by 89%](https://android.jlelse.eu/how-i-reduced-my-android-build-times-by-89-4242e51ce946)
 - [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
 
 ## GIT
@@ -148,6 +153,7 @@ This is the list of Android article divided into categories
 - [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
 
 ## Testing
+- [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
 - [The Ultimate Guide to Mobile Application Testing Strategy](http://axblog.sigos.com/ultimate-guide-mobile-application-testing-strategy?utm_source=linkedin&utm_medium=social&utm_campaign=blog20171207&utm_content=post&utm_term=dap)
 - [Testing Android UI with Pleasure](https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821)
 - [Testing common modules](https://blog.kotlin-academy.com/testing-common-modules-66b39d641617)
@@ -172,6 +178,7 @@ This is the list of Android article divided into categories
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 
 # Kotlin
+- [Creating a simple blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/)
 - [Effective Java in Kotlin, item 1:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
 - [Effective Java in Kotlin, item 2:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-2-consider-a-builder-when-faced-with-many-constructor-parameters-1927e69608e1)
 - [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
