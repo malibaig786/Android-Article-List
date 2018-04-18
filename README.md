@@ -35,10 +35,12 @@ This is the list of Android article divided into categories
 - [Make your custom view 60fps in Android](https://medium.com/rosberryapps/make-your-custom-view-60fps-in-android-4587bbffa557)
 
 # Clean Code
+- [Code Clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
 - [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
 
 ## Architecture
+- [Clean architecture on Android](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83)
 - [Introducing Slick, The Reactive MVP Framework](https://proandroiddev.com/introducing-slick-the-reactive-mvp-framework-b083222db5f9)
 - [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
 - [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
