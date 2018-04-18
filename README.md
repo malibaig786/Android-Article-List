@@ -14,6 +14,9 @@ This is the list of Android article divided into categories
 - [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
 - [Android-Text-Sample](https://github.com/googlesamples/android-text)
 
+## EditText
+- [Easy EditText content validation with Kotlin](https://proandroiddev.com/easy-edittext-content-validation-with-kotlin-316d835d25b3)
+
 ## ImageView
 - [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
 
@@ -34,6 +37,7 @@ This is the list of Android article divided into categories
 - [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
 
 ## Android Architecture components
+- [Detecting when an Android app backgrounds in 2018](https://proandroiddev.com/detecting-when-an-android-app-backgrounds-in-2018-4b5a94977d5c)
 - [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
 - [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
 - [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
@@ -90,6 +94,11 @@ This is the list of Android article divided into categories
 
 # Rest
 - [Building an Android Thin-Client at OkCupid](https://tech.okcupid.com/engineering-an-android-thin-client/)
+
+# Retrofit
+- [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
+- [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
+
 
 # Database
 - [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
@@ -203,9 +212,6 @@ This is the list of Android article divided into categories
 - [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 - [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
 - [An Introduction to Kotlin Multiplatform Projects](https://www.novoda.com/blog/introduction-to-kotlin-multiplatform/)
-
-## Retrofit
-- - [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
 
 ## Dagger 2
 - [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
