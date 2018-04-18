@@ -3,15 +3,20 @@ This is the list of Android article divided into categories
 
 # Complete Tutorials
 - [Build Your First Android App: A Time Zone Converter](https://dragosholban.com/2018/02/24/build-your-first-android-app-a-time-zone-converter)
+- [Building a video player app in Android (Part 5 / 5)](https://medium.com/google-developers/building-a-video-player-app-in-android-part-5-5-725c1ec2557a)
 
 # Small apps
 - [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
+
+# Activity
+- [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 
 # Fragment
 - [Using Fragments to Simplify the Android Navigation Drawer](https://stablekernel.com/using-fragments-to-simplify-android-navigation-drawers/)
 
 # Shortcuts
 - [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
+- [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
 
 # Views
 
@@ -66,6 +71,7 @@ This is the list of Android article divided into categories
 - [From design to android, part 2](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)
 
 # Layouts
+- [Android Studio Layout Editor for Beginners](https://www.codebrainer.com/blogs/android_studio_layout_editor_for_beginners?utm_source=Social&utm_medium=Blog_post&utm_campaign=Layout%20editor)
 - [Layouts, Attributes, and you](https://www.youtube.com/watch?annotation_id=annotation_4174682615&feature=iv&index=6&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM&src_vid=eOV2owswDkE&v=akP6n9VWHSI)
 - [Tuning your apps and games for long screen devices](https://android-developers.googleblog.com/2017/12/tuning-your-apps-and-games-for-long.html)
 
@@ -176,6 +182,7 @@ This is the list of Android article divided into categories
 - [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
 
 ## Testing
+- [Mastering the World of Android Testing (Part 2)](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
 - [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
 - [The Ultimate Guide to Mobile Application Testing Strategy](http://axblog.sigos.com/ultimate-guide-mobile-application-testing-strategy?utm_source=linkedin&utm_medium=social&utm_campaign=blog20171207&utm_content=post&utm_term=dap)
 - [Testing Android UI with Pleasure](https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821)
@@ -208,7 +215,7 @@ This is the list of Android article divided into categories
 - [Creating a simple blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/)
 - [Effective Java in Kotlin, item 1:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
 - [Effective Java in Kotlin, item 2:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-2-consider-a-builder-when-faced-with-many-constructor-parameters-1927e69608e1)
-- [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
+- [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
 - [Understanding the power of generics ](https://antonioleiva.com/generic-functions-kotlin/)
 - [The Ins and Outs of Generic Variance in Kotlin](https://typealias.com/guides/ins-and-outs-of-generic-variance)
 - [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
