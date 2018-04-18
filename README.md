@@ -53,6 +53,7 @@ This is the list of Android article divided into categories
 - [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
 
 ## Android Architecture components
+- [Android Architecture: Part 1 – Every New Beginning is Hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
 - [Detecting when an Android app backgrounds in 2018](https://proandroiddev.com/detecting-when-an-android-app-backgrounds-in-2018-4b5a94977d5c)
 - [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
 - [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
@@ -223,6 +224,7 @@ This is the list of Android article divided into categories
 - [31DaysofKotlin](https://twitter.com/i/moments/980488782406303744)
 - [31DaysOfKotlin — Week 1 Recap](https://medium.com/google-developers/31daysofkotlin-week-1-recap-fbd5a622ef86)
 - [31DaysOfKotlin — Week 2 Recap](https://medium.com/google-developers/31daysofkotlin-week-2-recap-9eedcd18ef8)
+- [#31DaysOfKotlin — Week 3 Recap](https://medium.com/google-developers/31daysofkotlin-week-3-recap-20b20ca9e205)
 - [Summary of #31DaysOfKotlin](https://proandroiddev.com/summary-of-31daysofkotlin-68319d1d4972)
 - [Kotlin: When to Use Lazy or Lateinit](https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/)
 - [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
