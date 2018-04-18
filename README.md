@@ -4,6 +4,9 @@ This is the list of Android article divided into categories
 # Complete Tutorials
 - [Build Your First Android App: A Time Zone Converter](https://dragosholban.com/2018/02/24/build-your-first-android-app-a-time-zone-converter)
 
+# Small apps
+- [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
+
 # Fragment
 - [Using Fragments to Simplify the Android Navigation Drawer](https://stablekernel.com/using-fragments-to-simplify-android-navigation-drawers/)
 
