@@ -8,6 +8,10 @@ This is the list of Android article divided into categories
 # Small apps
 - [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
 
+# Shortcuts
+- [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
+- [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
+
 # Activity
 - [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 
@@ -15,11 +19,6 @@ This is the list of Android article divided into categories
 - [Using Fragments to Simplify the Android Navigation Drawer](https://stablekernel.com/using-fragments-to-simplify-android-navigation-drawers/)
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
-
-
-# Shortcuts
-- [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
-- [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
 
 # Views
 
