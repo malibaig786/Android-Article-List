@@ -140,6 +140,8 @@ This is the list of Android article divided into categories
 - [Quick Tip: Network Profiler in Android Studio 3.1](https://android.jlelse.eu/quick-tip-network-profiler-in-android-studio-3-1-491e530ac8f2)
 
 ## Gradle
+- [Add build dependencies](https://developer.android.com/studio/build/dependencies)
+- [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
 - [How I reduced my Android build times by 89%](https://android.jlelse.eu/how-i-reduced-my-android-build-times-by-89-4242e51ce946)
 - [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
 
