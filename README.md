@@ -22,6 +22,21 @@ This is the list of Android article divided into categories
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
 
+# Data presistence
+
+## SharePreference
+- [Prefekt](https://blog.stylingandroid.com/prefekt-introduction/)
+
+## Database
+- [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
+- [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
+- [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
+- [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
+- [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
+
+## [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
+- [Realm Is the Best Android Database Solution](https://www.toptal.com/android/realm-best-android-database-solution)
+
 # UI
 ## Views or Widgets
 
@@ -36,34 +51,39 @@ This is the list of Android article divided into categories
 ### ImageView
 - [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
 
+### CustomView
+- [Make your custom view 60fps in Android](https://medium.com/rosberryapps/make-your-custom-view-60fps-in-android-4587bbffa557)
+
 ### RecyclerView
 - [Inside RecyclerView’s SnapHelper](https://proandroiddev.com/android-recyclerview-snaphelper-19eaa9598da6)
 - [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
 
-## CustomView
-- [Make your custom view 60fps in Android](https://medium.com/rosberryapps/make-your-custom-view-60fps-in-android-4587bbffa557)
+## Layouts
+- [Android Studio Layout Editor for Beginners](https://www.codebrainer.com/blogs/android_studio_layout_editor_for_beginners?utm_source=Social&utm_medium=Blog_post&utm_campaign=Layout%20editor)
+- [Layouts, Attributes, and you](https://www.youtube.com/watch?annotation_id=annotation_4174682615&feature=iv&index=6&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM&src_vid=eOV2owswDkE&v=akP6n9VWHSI)
+- [Tuning your apps and games for long screen devices](https://android-developers.googleblog.com/2017/12/tuning-your-apps-and-games-for-long.html)
 
-# Clean Code
-- [Code Clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
-- [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
-- [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
+### ConstraintLayout
+- [GUIDELINES, BARRIERS, CHAINS AND GROUPS](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
+- [Build awesome animations with 7 lines of code using ConstraintLayout](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
 
-## Architecture
-- [Clean architecture on Android](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83)
-- [Introducing Slick, The Reactive MVP Framework](https://proandroiddev.com/introducing-slick-the-reactive-mvp-framework-b083222db5f9)
-- [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
-- [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
-- [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
-- [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
+### DataBinding
+- [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
+- [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
+- [Android-Databinding-Sample](https://github.com/googlesamples/android-databinding)
 
-## Android Architecture components
-- [Android Architecture: Part 1 – Every New Beginning is Hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
-- [Detecting when an Android app backgrounds in 2018](https://proandroiddev.com/detecting-when-an-android-app-backgrounds-in-2018-4b5a94977d5c)
-- [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
-- [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
-- [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
-- [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
-- [Types as tests: How to fail the build when there’s a logical error](https://proandroiddev.com/types-as-tests-how-to-fail-the-build-when-theres-a-logical-error-e7000e2f62b8)
+### ButterKnife
+- [How you use ButterKnife's debuggable=false processor option](https://gist.github.com/JakeWharton/bbd4d37367e11dba9e388e5d59314d47)
+- [How Butterknife library works its magic](http://shikherverma.com/blog/Source-Code-Diving)
+
+### Fonts
+- [Downloadable Fonts: How does it work?](https://android.jlelse.eu/downloadable-fonts-how-does-it-work-904b9d03e5b6)
+### Emoji
+- [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
+
+## Animation
+- [Move content to side in Drawer Layout Android](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/)
+- [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 
 # Design & UX
 - [Applying human-centered design to emerging technologies](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
@@ -75,32 +95,6 @@ This is the list of Android article divided into categories
 - [From design to android, part 1](http://saulmm.github.io/from-design-to-android-part1)
 - [From design to android, part 2](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)
 
-# Layouts
-- [Android Studio Layout Editor for Beginners](https://www.codebrainer.com/blogs/android_studio_layout_editor_for_beginners?utm_source=Social&utm_medium=Blog_post&utm_campaign=Layout%20editor)
-- [Layouts, Attributes, and you](https://www.youtube.com/watch?annotation_id=annotation_4174682615&feature=iv&index=6&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM&src_vid=eOV2owswDkE&v=akP6n9VWHSI)
-- [Tuning your apps and games for long screen devices](https://android-developers.googleblog.com/2017/12/tuning-your-apps-and-games-for-long.html)
-
-## ConstraintLayout
-- [GUIDELINES, BARRIERS, CHAINS AND GROUPS](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
-- [Build awesome animations with 7 lines of code using ConstraintLayout](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
-
-# DataBinding
-- [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
-- [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
-- [Android-Databinding-Sample](https://github.com/googlesamples/android-databinding)
-
-## ButterKnife
-- [How you use ButterKnife's debuggable=false processor option](https://gist.github.com/JakeWharton/bbd4d37367e11dba9e388e5d59314d47)
-- [How Butterknife library works its magic](http://shikherverma.com/blog/Source-Code-Diving)
-
-# UI
-- [Downloadable Fonts: How does it work?](https://android.jlelse.eu/downloadable-fonts-how-does-it-work-904b9d03e5b6)
-- [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
-
-# Animation
-- [Move content to side in Drawer Layout Android](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/)
-- [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
-
 # MultiThreading & Background
 - [Android background in a nutshell. Part 4 — RxJava](https://proandroiddev.com/android-background-in-a-nutshell-part-4-rxjava-a41c16985d71)
 - [It’s time to ditch Loaders in Android](https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7)
@@ -111,36 +105,25 @@ This is the list of Android article divided into categories
 - [RxJava - Flowables - What, when and how to use it?](http://www.aanandshekharroy.com/articles/2018-01/rxjava-flowables)
 - [RxJava — Schedulers — What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
 
-# Rest
-- [Building an Android Thin-Client at OkCupid](https://tech.okcupid.com/engineering-an-android-thin-client/)
+# Network
 
-# Retrofit
+## Retrofit
 - [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
 - [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
 
-# SharePreference
-- [Prefekt](https://blog.stylingandroid.com/prefekt-introduction/)
+## Rest
+- [Building an Android Thin-Client at OkCupid](https://tech.okcupid.com/engineering-an-android-thin-client/)
 
-# Database
-- [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
-- [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
-- [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
-- [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
-- [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
-
-## [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
-- [Realm Is the Best Android Database Solution](https://www.toptal.com/android/realm-best-android-database-solution)
-
-# Tools
-- [Frameless emulator window](https://developer.android.com/studio/releases/emulator.html)
-- [Quick Boot & the Top Features in the Android Emulator](https://android-developers.googleblog.com/2017/12/quick-boot-top-features-in-android.html)
-- [Diagnose and understand your app's GPU behavior with GAPID](https://android-developers.googleblog.com/2017/12/diagnose-and-understand-your-apps-gpu_13.html)
+## Gson
 - [Most elegant way of using Gson + Kotlin with default values and null safety](https://medium.com/@MaxMello/most-elegant-way-of-using-gson-kotlin-with-default-values-and-null-safety-b6216ac5328c)
+
+## Custom Type Adapter
 - [Creating a Custom Type Adapter for Moshi](https://medium.com/@emmaguy/creating-a-custom-type-adapter-for-moshi-ae7e1cf469a9)
 
-## Android Profiler
-- [Quick Tip: Network Profiler in Android Studio 3.1](https://android.jlelse.eu/quick-tip-network-profiler-in-android-studio-3-1-491e530ac8f2)
+## Firebase
+- [Understanding Cloud Firestore Security Rules](https://www.ericdecanini.com/2018/02/03/understanding-cloud-firestore-security-rules/)
 
+# Build System
 ## Gradle
 - [Add build dependencies](https://developer.android.com/studio/build/dependencies)
 - [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
@@ -159,12 +142,51 @@ This is the list of Android article divided into categories
 - [Time for non-Time Lords](https://blog.stylingandroid.com/category/time/)
 - [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP)
 
-# Firebase
-- [Understanding Cloud Firestore Security Rules](https://www.ericdecanini.com/2018/02/03/understanding-cloud-firestore-security-rules/)
+# Android Architecture components
+- [Android Architecture: Part 1 – Every New Beginning is Hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
+- [Detecting when an Android app backgrounds in 2018](https://proandroiddev.com/detecting-when-an-android-app-backgrounds-in-2018-4b5a94977d5c)
+- [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
+- [Android Architecture components walk-through](https://www.linkedin.com/pulse/android-architecture-components-walk-through-mohamed-ibrahim/)
+- [Is your Android Library, Lifecycle-Aware?](https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc)
+- [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
+- [Types as tests: How to fail the build when there’s a logical error](https://proandroiddev.com/types-as-tests-how-to-fail-the-build-when-theres-a-logical-error-e7000e2f62b8)
+
+# Dagger 2
+- [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
+- [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
+
+# Clean Code
+- [Code Clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
+- [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
+- [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
+
+# Architecture
+- [Clean architecture on Android](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83)
+- [Introducing Slick, The Reactive MVP Framework](https://proandroiddev.com/introducing-slick-the-reactive-mvp-framework-b083222db5f9)
+- [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
+- [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
+- [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
+- [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
+
 
 # Launch your App
 - [Automated Mobile Localization Process](https://proandroiddev.com/automated-mobile-localization-process-5e05b721bf69)
 - [Basic Android Encryption Do’s and Don’ts](https://medium.com/@tiensinodev/basic-android-encryption-dos-and-don-ts-7bc2cd3335ff)
+
+## Debugging
+- [Finding inter-procedural bugs at scale with Infer static analyzer](https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer/)
+- [Hide your crashes gracefully (and still report them)](https://proandroiddev.com/hide-your-crashes-gracefully-and-still-report-them-9b1c85b25875)
+- [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
+
+### Emulator
+- [Frameless emulator window](https://developer.android.com/studio/releases/emulator.html)
+- [Quick Boot & the Top Features in the Android Emulator](https://android-developers.googleblog.com/2017/12/quick-boot-top-features-in-android.html)
+
+### Android Profiler
+- [Quick Tip: Network Profiler in Android Studio 3.1](https://android.jlelse.eu/quick-tip-network-profiler-in-android-studio-3-1-491e530ac8f2)
+
+### GAPID
+- [Diagnose and understand your app's GPU behavior with GAPID](https://android-developers.googleblog.com/2017/12/diagnose-and-understand-your-apps-gpu_13.html)
 
 ## Optimize your Android apps
 - [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
@@ -178,11 +200,6 @@ This is the list of Android article divided into categories
 - [Android O to drop insecure TLS version fallback in HttpsURLConnection](https://android-developers.googleblog.com/2017/04/android-o-to-drop-insecure-tls-version.html)
 - [Making it safer to get apps on Android O](https://android-developers.googleblog.com/2017/08/making-it-safer-to-get-apps-on-android-o.html)
 - [Double Stuffed Security in Android Oreo](https://android-developers.googleblog.com/2017/12/double-stuffed-security-in-android-oreo.html)
-
-## Debugging
-- [Finding inter-procedural bugs at scale with Infer static analyzer](https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer/)
-- [Hide your crashes gracefully (and still report them)](https://proandroiddev.com/hide-your-crashes-gracefully-and-still-report-them-9b1c85b25875)
-- [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
 
 ## Testing
 - [Mastering the World of Android Testing (Part 2)](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
@@ -241,10 +258,6 @@ This is the list of Android article divided into categories
 - [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 - [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
 - [An Introduction to Kotlin Multiplatform Projects](https://www.novoda.com/blog/introduction-to-kotlin-multiplatform/)
-
-## Dagger 2
-- [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
-- [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
 
 # Android TV
 - [Phasing out legacy recommendations on Android TV](https://android-developers.googleblog.com/2017/12/phasing-out-legacy-recommendations-on.html)
