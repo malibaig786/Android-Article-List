@@ -12,29 +12,31 @@ This is the list of Android article divided into categories
 - [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
 
-# Activity
+# Building Blocks
+
+## Activity
 - [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 
-# Fragment
+## Fragment
 - [Using Fragments to Simplify the Android Navigation Drawer](https://stablekernel.com/using-fragments-to-simplify-android-navigation-drawers/)
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
 
-# Views
+# UI
+## Views or Widgets
 
-## TextView
+### TextView
 - [Underspanding spans](https://medium.com/google-developers/underspanding-spans-1b91008b97e4)
 - [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
 - [Android-Text-Sample](https://github.com/googlesamples/android-text)
 
-## EditText
+### EditText
 - [Easy EditText content validation with Kotlin](https://proandroiddev.com/easy-edittext-content-validation-with-kotlin-316d835d25b3)
 
-## ImageView
+### ImageView
 - [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
 
-# RecyclerView
-- []()
+### RecyclerView
 - [Inside RecyclerView’s SnapHelper](https://proandroiddev.com/android-recyclerview-snaphelper-19eaa9598da6)
 - [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
 
