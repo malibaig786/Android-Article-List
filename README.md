@@ -66,6 +66,7 @@ This is the list of Android article divided into categories
 ### ConstraintLayout
 - [GUIDELINES, BARRIERS, CHAINS AND GROUPS](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
 - [Build awesome animations with 7 lines of code using ConstraintLayout](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
+- [The making of AccordionView using ConstraintLayout](https://proandroiddev.com/the-making-of-accordionview-using-constraintlayout-c86992ffbb7b)
 
 ### DataBinding
 - [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
@@ -80,6 +81,10 @@ This is the list of Android article divided into categories
 - [Downloadable Fonts: How does it work?](https://android.jlelse.eu/downloadable-fonts-how-does-it-work-904b9d03e5b6)
 ### Emoji
 - [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
+
+## Chrome OS
+- [Why your app should be optimized for screens of all sizes](https://medium.com/googleplaydev/more-than-mobile-friendly-547e44bc085a)
+- [Optimize apps for Chrome OS](https://developer.android.com/topic/arc/optimizing)
 
 ## Animation
 - [Move content to side in Drawer Layout Android](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/)
@@ -225,6 +230,9 @@ This is the list of Android article divided into categories
 - [From app explorer to first-time buyer](https://medium.com/googleplaydev/from-app-explorer-to-first-time-buyer-6476be50893)
 
 ## Google Play
+- [Latest apps sories//developer.android.com/stories/apps/)
+- [Apply for early access to pre-registration](https://support.google.com/googleplay/android-developer/answer/9098022)
+- [Implementing linkedPurchaseToken correctly to prevent duplicate subscriptions](https://medium.com/androiddevelopers/implementing-linkedpurchasetoken-correctly-to-prevent-duplicate-subscriptions-82dfbf7167da)
 - [A guide to the Google Play Console](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
 - [Updates and Other Resources](https://play.google.com/about/updates-resources/)
 - [Use pre-launch reports to identify issues](https://support.google.com/googleplay/android-developer/answer/7002270#demo_loop)
@@ -254,6 +262,7 @@ This is the list of Android article divided into categories
 - [Why and how I switched to Kotlin](https://android.jlelse.eu/why-and-how-i-switched-to-kotlin-503460bbfcf)
 - [Modern Android development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
 - [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
+- [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
 - [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
 - [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 - [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
