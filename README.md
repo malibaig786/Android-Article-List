@@ -11,6 +11,10 @@ This is the list of Android article divided into categories
 # Small apps
 - [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
 
+# AndroidX
+- [AndroidX Overview](https://developer.android.com/jetpack/androidx/)
+- [Hello World, AndroidX](https://android-developers.googleblog.com/2018/05/hello-world-androidx.html)
+
 # Shortcuts
 - [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
@@ -50,6 +54,7 @@ This is the list of Android article divided into categories
 
 ### EditText
 - [Easy EditText content validation with Kotlin](https://proandroiddev.com/easy-edittext-content-validation-with-kotlin-316d835d25b3)
+- [Optimize your app for autofill](https://developer.android.com/guide/topics/text/autofill-optimize)
 
 ### ImageView
 - [Android ImageView ScaleType: A Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
@@ -88,6 +93,8 @@ This is the list of Android article divided into categories
 ## Chrome OS
 - [Why your app should be optimized for screens of all sizes](https://medium.com/googleplaydev/more-than-mobile-friendly-547e44bc085a)
 - [Optimize apps for Chrome OS](https://developer.android.com/topic/arc/optimizing)
+- [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
+
 
 ## Animation
 - [Move content to side in Drawer Layout Android](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/)
@@ -102,11 +109,6 @@ This is the list of Android article divided into categories
 ## From Design to Android
 - [From design to android, part 1](http://saulmm.github.io/from-design-to-android-part1)
 - [From design to android, part 2](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)
-
-# MultiThreading & Background
-- [Android background in a nutshell. Part 4 — RxJava](https://proandroiddev.com/android-background-in-a-nutshell-part-4-rxjava-a41c16985d71)
-- [It’s time to ditch Loaders in Android](https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7)
-- [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 ## RxJava
 - [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
@@ -161,11 +163,16 @@ This is the list of Android article divided into categories
 
 # New things
 - [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
-
+- [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
+- [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
 
 # MultiThreading
+## Loaders
+- [It’s time to ditch Loaders in Android](https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7)
 ## Background
 - [Modern background execution in Android](https://android-developers.googleblog.com/2018/10/modern-background-execution-in-android.html?linkId=58286424)
+- [Android background in a nutshell. Part 4 — RxJava](https://proandroiddev.com/android-background-in-a-nutshell-part-4-rxjava-a41c16985d71)
+- [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 # Dagger 2
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
@@ -217,10 +224,11 @@ This is the list of Android article divided into categories
 ## Optimize your Android apps size
 - [Patchwork Plaid — A modularization story](https://medium.com/androiddevelopers/a-patchwork-plaid-monolith-to-modularized-app-60235d9f212e?linkId=58394902)
 - [Shrinking APKs, growing installs](https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2)
-- [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
+
+## Battery
+- [Moar Power in Android 9 Pie and the future](https://android-developers.googleblog.com/2018/09/moar-power-in-android-9-pie-and-future.html?linkId=56731552)
 
 ## Security
-- [Improving app security and performance on Google Play for years to come](https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html)
 - [Shut the HAL Up](https://android-developers.googleblog.com/2017/07/shut-hal-up.html)
 - [Hardening the Kernel in Android Oreo](https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html)
 - [Changes to Device Identifiers in Android O](https://android-developers.googleblog.com/2017/04/changes-to-device-identifiers-in.html)
@@ -234,7 +242,6 @@ This is the list of Android article divided into categories
 
 ## Testing
 - [Mastering the World of Android Testing (Part 2)](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
-- [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
 - [The Ultimate Guide to Mobile Application Testing Strategy](http://axblog.sigos.com/ultimate-guide-mobile-application-testing-strategy?utm_source=linkedin&utm_medium=social&utm_campaign=blog20171207&utm_content=post&utm_term=dap)
 - [Testing Android UI with Pleasure](https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821)
 - [Testing common modules](https://blog.kotlin-academy.com/testing-common-modules-66b39d641617)
@@ -257,8 +264,8 @@ This is the list of Android article divided into categories
 
 ## Google Play
 - [Academy for App Success](https://playacademy.exceedlms.com/student/catalog)
-- [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
 - [Latest apps sories](https://developer.android.com/stories/apps/)
+- [Improving app security and performance on Google Play for years to come](https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html)
 - [Apply for early access to pre-registration](https://support.google.com/googleplay/android-developer/answer/9098022)
 - [Implementing linkedPurchaseToken correctly to prevent duplicate subscriptions](https://medium.com/androiddevelopers/implementing-linkedpurchasetoken-correctly-to-prevent-duplicate-subscriptions-82dfbf7167da)
 - [A guide to the Google Play Console](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
@@ -266,9 +273,25 @@ This is the list of Android article divided into categories
 - [Use pre-launch reports to identify issues](https://support.google.com/googleplay/android-developer/answer/7002270#demo_loop)
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 
+### Build Excellent Apps
+- [Generate positive social impact through your apps](https://twitter.com/GooglePlayDev/status/1042819669940494336)
+- [Discover how GooglePlay developers grew their subscription business](https://twitter.com/GooglePlayDev/status/1037756440423870464)
+- [How do you successfully engage and retain your app users in the long term?](https://twitter.com/GooglePlayDev/status/1045353482675507202)
+
+### Outsoucrcing app
+- [Part 1](https://twitter.com/GooglePlayDev/status/1039554766609760256)
+- [Part 2](https://twitter.com/GooglePlayDev/status/1042086293923135490)
+- [Part 3](https://twitter.com/GooglePlayDev/status/1046817021151924225)
+
+# Firebase
+- [Notifying your users with FCM](https://android-developers.googleblog.com/2018/09/notifying-your-users-with-fcm.html?linkId=57033422)
+
+
 # Kotlin
 - [Kotlin Momentum for Android and Beyond](https://android-developers.googleblog.com/2018/10/kotlin-momentum-for-android-and-beyond.html?linkId=57742766)
 - [Android Pie SDK is now more Kotlin-friendly](https://android-developers.googleblog.com/2018/08/android-pie-sdk-is-now-more-kotlin.html)
+- [Adopting Kotlin](https://medium.com/androiddevelopers/adopting-kotlin-50c0df79b879?linkId=57658767)
+- [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-thef-power-of-when-f0ac616ddd1a?linkId=57403189)
 - [Kotlin / Android Studio Development Essentials](http://www.techotopia.com/index.php/Kotlin_/_Android_Studio_Development_Essentials)
 - [Creating a simple blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/)
 - [Effective Java in Kotlin, item 1:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
@@ -297,6 +320,7 @@ This is the list of Android article divided into categories
 - [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 - [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
 - [An Introduction to Kotlin Multiplatform Projects](https://www.novoda.com/blog/introduction-to-kotlin-multiplatform/)
+- [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
 
 # Android TV
 - [Phasing out legacy recommendations on Android TV](https://android-developers.googleblog.com/2017/12/phasing-out-legacy-recommendations-on.html)
