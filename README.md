@@ -174,6 +174,7 @@ This is the list of Android article divided into categories
 - [Android background in a nutshell. Part 4 — RxJava](https://proandroiddev.com/android-background-in-a-nutshell-part-4-rxjava-a41c16985d71)
 - [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
+
 # Dagger 2
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
 - [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
@@ -184,6 +185,7 @@ This is the list of Android article divided into categories
 
 # Camera
 - [Using multiple camera streams simultaneously](https://medium.com/androiddevelopers/using-multiple-camera-streams-simultaneously-bf9488a29482?linkId=58066789)
+- [Understanding Android camera capture sessions and requests](https://medium.com/androiddevelopers/understanding-android-camera-capture-sessions-and-requests-4e54d9150295)
 
 # Productivity
 - [Super charging your app development](https://android.jlelse.eu/supercharging-your-app-development-speed-with-custom-file-templates-3e6acb6db6c3)
@@ -272,6 +274,7 @@ This is the list of Android article divided into categories
 - [Updates and Other Resources](https://play.google.com/about/updates-resources/)
 - [Use pre-launch reports to identify issues](https://support.google.com/googleplay/android-developer/answer/7002270#demo_loop)
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
+- [Staged releases are now supported in your testing, as well as in production tracks](https://twitter.com/GooglePlayDev/status/1037389370116980736)
 
 ### Build Excellent Apps
 - [Generate positive social impact through your apps](https://twitter.com/GooglePlayDev/status/1042819669940494336)
@@ -290,6 +293,8 @@ This is the list of Android article divided into categories
 # Kotlin
 - [Kotlin Momentum for Android and Beyond](https://android-developers.googleblog.com/2018/10/kotlin-momentum-for-android-and-beyond.html?linkId=57742766)
 - [Android Pie SDK is now more Kotlin-friendly](https://android-developers.googleblog.com/2018/08/android-pie-sdk-is-now-more-kotlin.html)
+- [New in Kotlin 1.3: The ifEmpty function](https://twitter.com/kotlin/status/1058433997443866625)
+- [Kotlin Demystified: When to use custom accessors](https://medium.com/androiddevelopers/kotlin-demystified-when-to-use-custom-accessors-939a6e998899)
 - [Adopting Kotlin](https://medium.com/androiddevelopers/adopting-kotlin-50c0df79b879?linkId=57658767)
 - [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-thef-power-of-when-f0ac616ddd1a?linkId=57403189)
 - [Kotlin / Android Studio Development Essentials](http://www.techotopia.com/index.php/Kotlin_/_Android_Studio_Development_Essentials)
@@ -321,6 +326,9 @@ This is the list of Android article divided into categories
 - [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
 - [An Introduction to Kotlin Multiplatform Projects](https://www.novoda.com/blog/introduction-to-kotlin-multiplatform/)
 - [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
+### Coroutines
+- [Blocking threads, suspending coroutines](https://medium.com/@elizarov/blocking-threads-suspending-coroutines-d33e11bf4761)
+
 
 # Android TV
 - [Phasing out legacy recommendations on Android TV](https://android-developers.googleblog.com/2017/12/phasing-out-legacy-recommendations-on.html)
