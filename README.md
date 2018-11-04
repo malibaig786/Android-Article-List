@@ -230,7 +230,7 @@ This is the list of Android article divided into categories
 - [From app explorer to first-time buyer](https://medium.com/googleplaydev/from-app-explorer-to-first-time-buyer-6476be50893)
 
 ## Google Play
-- [Latest apps sories//developer.android.com/stories/apps/)
+- [Latest apps sories](https://developer.android.com/stories/apps/)
 - [Apply for early access to pre-registration](https://support.google.com/googleplay/android-developer/answer/9098022)
 - [Implementing linkedPurchaseToken correctly to prevent duplicate subscriptions](https://medium.com/androiddevelopers/implementing-linkedpurchasetoken-correctly-to-prevent-duplicate-subscriptions-82dfbf7167da)
 - [A guide to the Google Play Console](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
