@@ -1,6 +1,9 @@
 # Android-Article-List
 This is the list of Android article divided into categories
 
+# Learning Android Development
+- [Learning Android Development in 2018 — Part 1](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
+
 # Complete Tutorials
 - [Build Your First Android App: A Time Zone Converter](https://dragosholban.com/2018/02/24/build-your-first-android-app-a-time-zone-converter)
 - [Building a video player app in Android (Part 5 / 5)](https://medium.com/google-developers/building-a-video-player-app-in-android-part-5-5-725c1ec2557a)
@@ -156,9 +159,27 @@ This is the list of Android article divided into categories
 - [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
 - [Types as tests: How to fail the build when there’s a logical error](https://proandroiddev.com/types-as-tests-how-to-fail-the-build-when-theres-a-logical-error-e7000e2f62b8)
 
+# New things
+- [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
+
+
+# MultiThreading
+## Background
+- [Modern background execution in Android](https://android-developers.googleblog.com/2018/10/modern-background-execution-in-android.html?linkId=58286424)
+
 # Dagger 2
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
 - [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
+
+# MultiMedia
+- [Introducing Oboe: A C++ library for low latency audio](https://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html?linkId=58065430)
+- [ExoPlayer 2.9.0 — What’s new](https://medium.com/google-exoplayer/exoplayer-2-9-0-whats-new-5aa39a3aadce?linkId=57692866)
+
+# Camera
+- [Using multiple camera streams simultaneously](https://medium.com/androiddevelopers/using-multiple-camera-streams-simultaneously-bf9488a29482?linkId=58066789)
+
+# Productivity
+- [Super charging your app development](https://android.jlelse.eu/supercharging-your-app-development-speed-with-custom-file-templates-3e6acb6db6c3)
 
 # Clean Code
 - [Code Clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
@@ -193,9 +214,10 @@ This is the list of Android article divided into categories
 ### GAPID
 - [Diagnose and understand your app's GPU behavior with GAPID](https://android-developers.googleblog.com/2017/12/diagnose-and-understand-your-apps-gpu_13.html)
 
-## Optimize your Android apps
-- [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
+## Optimize your Android apps size
+- [Patchwork Plaid — A modularization story](https://medium.com/androiddevelopers/a-patchwork-plaid-monolith-to-modularized-app-60235d9f212e?linkId=58394902)
 - [Shrinking APKs, growing installs](https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2)
+- [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
 
 ## Security
 - [Improving app security and performance on Google Play for years to come](https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html)
@@ -205,6 +227,10 @@ This is the list of Android article divided into categories
 - [Android O to drop insecure TLS version fallback in HttpsURLConnection](https://android-developers.googleblog.com/2017/04/android-o-to-drop-insecure-tls-version.html)
 - [Making it safer to get apps on Android O](https://android-developers.googleblog.com/2017/08/making-it-safer-to-get-apps-on-android-o.html)
 - [Double Stuffed Security in Android Oreo](https://android-developers.googleblog.com/2017/12/double-stuffed-security-in-android-oreo.html)
+- [Android Protected Confirmation: Taking transaction security to the next level](https://android-developers.googleblog.com/2018/10/android-protected-confirmation.html)
+- [Control Flow Integrity in the Android kernel](https://android-developers.googleblog.com/2018/10/control-flow-integrity-in-android-kernel.html)
+# AI
+- [Building a Titan: Better security through a tiny chip](https://android-developers.googleblog.com/2018/10/building-titan-better-security-through.html)
 
 ## Testing
 - [Mastering the World of Android Testing (Part 2)](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
@@ -230,6 +256,8 @@ This is the list of Android article divided into categories
 - [From app explorer to first-time buyer](https://medium.com/googleplaydev/from-app-explorer-to-first-time-buyer-6476be50893)
 
 ## Google Play
+- [Academy for App Success](https://playacademy.exceedlms.com/student/catalog)
+- [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
 - [Latest apps sories](https://developer.android.com/stories/apps/)
 - [Apply for early access to pre-registration](https://support.google.com/googleplay/android-developer/answer/9098022)
 - [Implementing linkedPurchaseToken correctly to prevent duplicate subscriptions](https://medium.com/androiddevelopers/implementing-linkedpurchasetoken-correctly-to-prevent-duplicate-subscriptions-82dfbf7167da)
@@ -239,6 +267,8 @@ This is the list of Android article divided into categories
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 
 # Kotlin
+- [Kotlin Momentum for Android and Beyond](https://android-developers.googleblog.com/2018/10/kotlin-momentum-for-android-and-beyond.html?linkId=57742766)
+- [Android Pie SDK is now more Kotlin-friendly](https://android-developers.googleblog.com/2018/08/android-pie-sdk-is-now-more-kotlin.html)
 - [Kotlin / Android Studio Development Essentials](http://www.techotopia.com/index.php/Kotlin_/_Android_Studio_Development_Essentials)
 - [Creating a simple blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/)
 - [Effective Java in Kotlin, item 1:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
