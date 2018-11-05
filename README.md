@@ -189,6 +189,7 @@ This is the list of Android article divided into categories
 
 # Productivity
 - [Super charging your app development](https://android.jlelse.eu/supercharging-your-app-development-speed-with-custom-file-templates-3e6acb6db6c3)
+- [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
 
 # Clean Code
 - [Code Clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
@@ -319,8 +320,6 @@ This is the list of Android article divided into categories
 - [Why starting a new Android project with Java is a bad idea](https://medium.com/snapp-mobile/why-starting-a-new-android-project-with-java-is-a-bad-idea-359bffe0bbd6)
 - [Why and how I switched to Kotlin](https://android.jlelse.eu/why-and-how-i-switched-to-kotlin-503460bbfcf)
 - [Modern Android development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
-- [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
-- [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
 - [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
 - [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
 - [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
@@ -328,6 +327,8 @@ This is the list of Android article divided into categories
 - [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
 ### Coroutines
 - [Blocking threads, suspending coroutines](https://medium.com/@elizarov/blocking-threads-suspending-coroutines-d33e11bf4761)
+- [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
+- [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
 
 
 # Android TV
