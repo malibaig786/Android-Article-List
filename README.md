@@ -67,6 +67,7 @@ This is the list of Android article divided into categories
 - [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
 
 ## Layouts
+- [Android Tools Attributes — Hidden Gems of Android Studio](https://android.jlelse.eu/tools-attributes-hidden-gems-of-android-studio-d7451b194e0b)
 - [Android Studio Layout Editor for Beginners](https://www.codebrainer.com/blogs/android_studio_layout_editor_for_beginners?utm_source=Social&utm_medium=Blog_post&utm_campaign=Layout%20editor)
 - [Layouts, Attributes, and you](https://www.youtube.com/watch?annotation_id=annotation_4174682615&feature=iv&index=6&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM&src_vid=eOV2owswDkE&v=akP6n9VWHSI)
 - [Tuning your apps and games for long screen devices](https://android-developers.googleblog.com/2017/12/tuning-your-apps-and-games-for-long.html)
@@ -99,6 +100,9 @@ This is the list of Android article divided into categories
 ## Animation
 - [Move content to side in Drawer Layout Android](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/)
 - [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
+- [Implement Google Inbox Style Animation on Android](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
+- [StateListAnimator — a Powerful Little Tool for Elevation Animation](https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0)
+- [TransitionDrawable — Small Gems of the Android Framework](https://proandroiddev.com/transitiondrawable-small-gems-of-the-android-framework-4dcdd3c83319)
 
 # Design & UX
 - [Applying human-centered design to emerging technologies](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
@@ -114,6 +118,9 @@ This is the list of Android article divided into categories
 - [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
 - [RxJava - Flowables - What, when and how to use it?](http://www.aanandshekharroy.com/articles/2018-01/rxjava-flowables)
 - [RxJava — Schedulers — What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
+- [rxlint](https://bitbucket.org/littlerobots/rxlint/src/default/README.md?fileviewer=file-view-default)
+- [Article](https://www.littlerobots.nl/blog/rxlint-1.7.0/)
+- [Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
 
 # Network
 
@@ -165,6 +172,7 @@ This is the list of Android article divided into categories
 - [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
 - [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
 - [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
+- [Instant apps](https://twitter.com/lehtimaeki/status/1058071656067928065)
 
 # MultiThreading
 ## Loaders
@@ -173,7 +181,6 @@ This is the list of Android article divided into categories
 - [Modern background execution in Android](https://android-developers.googleblog.com/2018/10/modern-background-execution-in-android.html?linkId=58286424)
 - [Android background in a nutshell. Part 4 — RxJava](https://proandroiddev.com/android-background-in-a-nutshell-part-4-rxjava-a41c16985d71)
 - [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
-
 
 # Dagger 2
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
@@ -203,7 +210,6 @@ This is the list of Android article divided into categories
 - [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
 - [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
 - [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
-
 
 # Launch your App
 - [Automated Mobile Localization Process](https://proandroiddev.com/automated-mobile-localization-process-5e05b721bf69)
@@ -261,10 +267,6 @@ This is the list of Android article divided into categories
 ## Unit Testing
 - [Unit tests on Android with Kotlin](https://antonioleiva.com/unit-tests-android-kotlin)
 
-## Monetization 
-- [Predicting your app’s monetization future](https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34)
-- [From app explorer to first-time buyer](https://medium.com/googleplaydev/from-app-explorer-to-first-time-buyer-6476be50893)
-
 ## Google Play
 - [Academy for App Success](https://playacademy.exceedlms.com/student/catalog)
 - [Latest apps sories](https://developer.android.com/stories/apps/)
@@ -282,76 +284,15 @@ This is the list of Android article divided into categories
 - [Discover how GooglePlay developers grew their subscription business](https://twitter.com/GooglePlayDev/status/1037756440423870464)
 - [How do you successfully engage and retain your app users in the long term?](https://twitter.com/GooglePlayDev/status/1045353482675507202)
 
+### Monetization 
+- [Predicting your app’s monetization future](https://medium.com/googleplaydev/predicting-your-apps-monetization-future-27180e82ae34)
+- [From app explorer to first-time buyer](https://medium.com/googleplaydev/from-app-explorer-to-first-time-buyer-6476be50893)
+
 ### Outsoucrcing app
 - [Part 1](https://twitter.com/GooglePlayDev/status/1039554766609760256)
 - [Part 2](https://twitter.com/GooglePlayDev/status/1042086293923135490)
 - [Part 3](https://twitter.com/GooglePlayDev/status/1046817021151924225)
 
-# Firebase
-- [Notifying your users with FCM](https://android-developers.googleblog.com/2018/09/notifying-your-users-with-fcm.html?linkId=57033422)
-
-
-# Kotlin
-- [Kotlin Momentum for Android and Beyond](https://android-developers.googleblog.com/2018/10/kotlin-momentum-for-android-and-beyond.html?linkId=57742766)
-- [Android Pie SDK is now more Kotlin-friendly](https://android-developers.googleblog.com/2018/08/android-pie-sdk-is-now-more-kotlin.html)
-- [New in Kotlin 1.3: The ifEmpty function](https://twitter.com/kotlin/status/1058433997443866625)
-- [Kotlin Demystified: When to use custom accessors](https://medium.com/androiddevelopers/kotlin-demystified-when-to-use-custom-accessors-939a6e998899)
-- [Adopting Kotlin](https://medium.com/androiddevelopers/adopting-kotlin-50c0df79b879?linkId=57658767)
-- [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-thef-power-of-when-f0ac616ddd1a?linkId=57403189)
-- [Kotlin / Android Studio Development Essentials](http://www.techotopia.com/index.php/Kotlin_/_Android_Studio_Development_Essentials)
-- [Creating a simple blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/)
-- [Effective Java in Kotlin, item 1:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
-- [Effective Java in Kotlin, item 2:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-2-consider-a-builder-when-faced-with-many-constructor-parameters-1927e69608e1)
-- [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
-- [Understanding the power of generics ](https://antonioleiva.com/generic-functions-kotlin/)
-- [The Ins and Outs of Generic Variance in Kotlin](https://typealias.com/guides/ins-and-outs-of-generic-variance)
-- [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
-- [Traversing through dates with Kotlin range expressions](https://www.netguru.co/codestories/traversing-through-dates-with-kotlin-range-expressions)
-- [31DaysofKotlin](https://twitter.com/i/moments/980488782406303744)
-- [31DaysOfKotlin — Week 1 Recap](https://medium.com/google-developers/31daysofkotlin-week-1-recap-fbd5a622ef86)
-- [31DaysOfKotlin — Week 2 Recap](https://medium.com/google-developers/31daysofkotlin-week-2-recap-9eedcd18ef8)
-- [#31DaysOfKotlin — Week 3 Recap](https://medium.com/google-developers/31daysofkotlin-week-3-recap-20b20ca9e205)
-- [Summary of #31DaysOfKotlin](https://proandroiddev.com/summary-of-31daysofkotlin-68319d1d4972)
-- [Kotlin: When to Use Lazy or Lateinit](https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/)
-- [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
-- [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
-- [Parcelable in Kotlin? Here comes Parcelize](https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac)
-- [Exploring KTX for Android](https://medium.com/exploring-android/exploring-ktx-for-android-13a369795b51)
-- [Why starting a new Android project with Java is a bad idea](https://medium.com/snapp-mobile/why-starting-a-new-android-project-with-java-is-a-bad-idea-359bffe0bbd6)
-- [Why and how I switched to Kotlin](https://android.jlelse.eu/why-and-how-i-switched-to-kotlin-503460bbfcf)
-- [Modern Android development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
-- [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
-- [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
-- [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
-- [An Introduction to Kotlin Multiplatform Projects](https://www.novoda.com/blog/introduction-to-kotlin-multiplatform/)
-- [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
-### Coroutines
-- [Blocking threads, suspending coroutines](https://medium.com/@elizarov/blocking-threads-suspending-coroutines-d33e11bf4761)
-- [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
-- [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
-
-
-# Android TV
-- [Phasing out legacy recommendations on Android TV](https://android-developers.googleblog.com/2017/12/phasing-out-legacy-recommendations-on.html)
-
-# AR
-- [Rethinking interface assumptions in AR: selecting objects](https://medium.com/googleplaydev/rethinking-interface-assumptions-in-ar-selecting-objects-a6675c7c1d1c)
-
-# Games
-- [Who plays mobile games?](https://medium.com/googleplaydev/who-plays-mobile-games-8b33f76bb6d8)
-- [Why the first ten minutes are crucial if you want to keep players coming back](https://medium.com/googleplaydev/why-the-first-ten-minutes-is-crucial-if-you-want-to-keep-players-coming-back-to-your-mobile-game-4a89031b6308)
-- [Five tips to improve your games-as-a-service monetization](https://medium.com/googleplaydev/five-tips-to-improve-your-games-as-a-service-monetization-1a99cccdf21)
-
-# Android Things
-- [IoT Developer Story: Deeplocal](https://android-developers.googleblog.com/2018/02/iot-developer-story-deeplocal.html)
-- [New Products At CES powered by Android Things](https://android-developers.googleblog.com/2018/01/new-products-at-ces-powered-by-android.html)
-- [Android Things Developer Preview 6](https://android-developers.googleblog.com/2017/11/android-things-developer-preview-6.html)
-- [LoWPAN on Android Things](https://android-developers.googleblog.com/2017/12/lowpan-on-android-things.html)
-- [Building a Google Assistant Controlled Android Things Device](https://www.captechconsulting.com/blogs/building-a-google-assistant-controlled-android-things-device)
-- [Android Things – Piezzo Transducer, PWM on the Rainbow Hat](http://blog.blundellapps.co.uk/tut-android-things-piezzo-transducer-pwm-on-the-rainbow-hat/)
-- [Building a Guitar Chord Tutor for Actions on Google: Part One](https://medium.com/@hitherejoe/building-a-guitar-chord-tutor-for-google-actions-part-one-975e4f855e58)
-
-# Android Wear
-- [Android Wear SDK and Emulator Update](https://android-developers.googleblog.com/2018/01/android-wear-sdk-and-emulator-update.html)
-
+# App Building Process
+- [Test and publish your apps with CircleCI + Fastlane + Firebase Test Lab](https://proandroiddev.com/test-and-publish-your-apps-with-circleci-fastlane-firebase-test-lab-e716c075b99b)
 
