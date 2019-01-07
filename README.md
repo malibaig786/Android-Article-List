@@ -116,6 +116,7 @@ This is the list of Android article divided into categories
 - [From design to android, part 2](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)
 
 ## RxJava
+- [I bet your RxJava is on the wrong thread](https://lorentzos.com/i-bet-your-rxjava-is-on-the-wrong-thread-ae02e66a3eac)
 - [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
 - [RxJava - Flowables - What, when and how to use it?](http://www.aanandshekharroy.com/articles/2018-01/rxjava-flowables)
 - [RxJava — Schedulers — What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
