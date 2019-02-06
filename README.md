@@ -33,6 +33,11 @@ This is the list of Android article divided into categories
 - [Best practice for instantiating a new Android Fragment](https://stackoverflow.com/questions/9245408/best-practice-for-instantiating-a-new-android-fragment)
 - [Using newInstance() to Instantiate a Fragment](https://www.androiddesignpatterns.com/2012/05/using-newinstance-to-instantiate.html)
 - [Using Fragments to Simplify the Android Navigation Drawer](https://stablekernel.com/using-fragments-to-simplify-android-navigation-drawers/)
+
+### Testing
+- [FragmentScenario Component: An easy way to test our fragments in isolation.](https://medium.com/google-developer-experts/exploring-the-android-fragment-scenario-component-e369ec587419)
+
+### Problem of Fragments
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
 
