@@ -283,6 +283,9 @@ This is the list of Android article divided into categories
 - [How we fought bad apps and malicious developers in 2017](https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html)
 - [Staged releases are now supported in your testing, as well as in production tracks](https://twitter.com/GooglePlayDev/status/1037389370116980736)
 
+### Legal issues
+- [Google just terminated our start-up Google Play Publisher Account on Christmas day](https://android.jlelse.eu/google-just-terminated-our-start-up-google-play-publisher-account-on-christmas-day-5cb69a454da0)
+
 ### Build Excellent Apps
 - [Generate positive social impact through your apps](https://twitter.com/GooglePlayDev/status/1042819669940494336)
 - [Discover how GooglePlay developers grew their subscription business](https://twitter.com/GooglePlayDev/status/1037756440423870464)
