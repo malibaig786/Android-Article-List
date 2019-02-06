@@ -25,6 +25,13 @@ This is the list of Android article divided into categories
 - [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 
 ## Fragment
+### Introduction
+- [Fragments](https://developer.android.com/guide/components/fragments)
+- [1.1: Fragments](https://google-developer-training.github.io/android-developer-advanced-course-concepts/unit-1-expand-the-user-experience/lesson-1-fragments/1-1-c-fragments/1-1-c-fragments.html)
+- [Creating and Using Fragments](https://guides.codepath.com/android/creating-and-using-fragments)
+- [Building dynamic user interfaces](http://www.vogella.com/tutorials/AndroidFragments/article.html)
+- [Best practice for instantiating a new Android Fragment](https://stackoverflow.com/questions/9245408/best-practice-for-instantiating-a-new-android-fragment)
+- [Using newInstance() to Instantiate a Fragment](https://www.androiddesignpatterns.com/2012/05/using-newinstance-to-instantiate.html)
 - [Using Fragments to Simplify the Android Navigation Drawer](https://stablekernel.com/using-fragments-to-simplify-android-navigation-drawers/)
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
