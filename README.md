@@ -315,3 +315,15 @@ This is the list of Android article divided into categories
 # App Building Process
 - [Test and publish your apps with CircleCI + Fastlane + Firebase Test Lab](https://proandroiddev.com/test-and-publish-your-apps-with-circleci-fastlane-firebase-test-lab-e716c075b99b)
 
+# Interview
+- [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
+
+# Open Source apps
+## From Google or there developers
+- [Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)
+- [plaid](https://github.com/nickbutcher/plaid)
+- [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+
+## Other
+- [Material Design Music Player](https://github.com/naman14/Timber)
+
