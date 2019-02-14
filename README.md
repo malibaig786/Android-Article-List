@@ -322,17 +322,25 @@ This is the list of Android article divided into categories
 
 # Settings
 - [Android Preference settings preferences Raiders](http://www.apkbj.com/news/show-19952.html)
-- []()
+## Libraries
+- [android-support-preference](https://github.com/consp1racy/android-support-preference)
+- [Android-Support-Preference-V7-Fix](https://github.com/Gericop/Android-Support-Preference-V7-Fix)
+- [colorpreference](https://github.com/kizitonwose/colorpreference)
 
 # Interview
 - [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
 
 # Open Source apps
 ## From Google or there developers
+- [The Google I/O 2018 Android App](https://github.com/google/iosched)
+- [Muzei Live Wallpaper for Android ](https://github.com/romannurik/muzei)
 - [Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)
 - [plaid](https://github.com/nickbutcher/plaid)
 - [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
 
 ## Other
+- [Quran for Android](https://github.com/quran/quran_android)
+- [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)
 - [Material Design Music Player](https://github.com/naman14/Timber)
+- [Materialistic: A material-design Hacker News Android reader ](https://github.com/hidroh/materialistic)
 
