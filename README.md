@@ -340,6 +340,7 @@ This is the list of Android article divided into categories
 
 ## Other
 - [Quran for Android](https://github.com/quran/quran_android)
+- [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 - [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)
 - [Material Design Music Player](https://github.com/naman14/Timber)
 - [Materialistic: A material-design Hacker News Android reader ](https://github.com/hidroh/materialistic)
