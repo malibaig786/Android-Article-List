@@ -23,6 +23,8 @@ This is the list of Android article divided into categories
 
 ## Activity
 - [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
+- [Activity's four startup modes - illustrated](http://www.apkbj.com/news/show-2305.html)
+
 
 ## Fragment
 ### Introduction
@@ -314,6 +316,13 @@ This is the list of Android article divided into categories
 
 # App Building Process
 - [Test and publish your apps with CircleCI + Fastlane + Firebase Test Lab](https://proandroiddev.com/test-and-publish-your-apps-with-circleci-fastlane-firebase-test-lab-e716c075b99b)
+
+# Utilities
+- [LogUtil often used in Android development](http://www.apkbj.com/news/show-2306.html)
+
+# Settings
+- [Android Preference settings preferences Raiders](http://www.apkbj.com/news/show-19952.html)
+- []()
 
 # Interview
 - [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
