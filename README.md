@@ -201,6 +201,8 @@ This is the list of Android article divided into categories
 - [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 # Dagger 2
+- [Dagger 2 on Android: The Simple Way](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
+- [Dagger 2 on Android: The Official Guidelines You Should Be Following](https://proandroiddev.com/dagger-2-on-android-the-official-guidelines-you-should-be-following-2607fd6c002e)
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
 - [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
 
@@ -344,4 +346,8 @@ This is the list of Android article divided into categories
 - [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)
 - [Material Design Music Player](https://github.com/naman14/Timber)
 - [Materialistic: A material-design Hacker News Android reader ](https://github.com/hidroh/materialistic)
+- [Easy-library: I completely changed my original Dagger setup, I added Data Binding](https://github.com/tfcporciuncula/easy-library)
+
+# Android Jobs
+- [Discover New Android Opportunities](https://www.androidjobs.io/)
 
