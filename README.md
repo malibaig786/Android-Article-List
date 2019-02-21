@@ -96,6 +96,7 @@ This is the list of Android article divided into categories
 
 ### DataBinding
 - [George Mount](https://medium.com/@georgemount007)
+- [Android Data Binding + ListAdapter](https://proandroiddev.com/android-data-binding-listadapter-9e72ce50e8c7)
 - [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
 - [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
 - [Android-Databinding-Sample](https://github.com/googlesamples/android-databinding)
