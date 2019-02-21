@@ -96,6 +96,7 @@ This is the list of Android article divided into categories
 
 ### DataBinding
 - [George Mount](https://medium.com/@georgemount007)
+- [An Argument Against Data Binding](https://medium.com/@hellotimmutton/an-argument-against-data-binding-13e2aaf7a9b1)
 - [Android Data Binding + ListAdapter](https://proandroiddev.com/android-data-binding-listadapter-9e72ce50e8c7)
 - [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
 - [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
@@ -226,6 +227,7 @@ This is the list of Android article divided into categories
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
 
 # Architecture
+- [Separated presentation](https://medium.com/android-testing-daily/separated-presentation-9a2982bd5553)
 - [Android Architecture: Part 1 – Every New Beginning is Hard](https://proandroiddev.com/the-state-of-jetification-in-early-2019-plus-a-bonus-gradle-plugin-aac5854af910)
 - [Clean architecture on Android](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83)
 - [Introducing Slick, The Reactive MVP Framework](https://proandroiddev.com/introducing-slick-the-reactive-mvp-framework-b083222db5f9)
@@ -353,4 +355,5 @@ This is the list of Android article divided into categories
 
 # Android Jobs
 - [Discover New Android Opportunities](https://www.androidjobs.io/)
+- [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
 
