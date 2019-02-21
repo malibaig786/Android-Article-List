@@ -226,6 +226,7 @@ This is the list of Android article divided into categories
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
 
 # Architecture
+- [Android Architecture: Part 1 – Every New Beginning is Hard](https://proandroiddev.com/the-state-of-jetification-in-early-2019-plus-a-bonus-gradle-plugin-aac5854af910)
 - [Clean architecture on Android](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83)
 - [Introducing Slick, The Reactive MVP Framework](https://proandroiddev.com/introducing-slick-the-reactive-mvp-framework-b083222db5f9)
 - [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
