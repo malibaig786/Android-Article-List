@@ -352,6 +352,8 @@ This is the list of Android article divided into categories
 - [Material Design Music Player](https://github.com/naman14/Timber)
 - [Materialistic: A material-design Hacker News Android reader ](https://github.com/hidroh/materialistic)
 - [Easy-library: I completely changed my original Dagger setup, I added Data Binding](https://github.com/tfcporciuncula/easy-library)
+- [Blue-Podcast: Used some good libraries](https://github.com/vidbregar/Blue-Podcast)
+- [Baking-App: Used some good libraries](https://github.com/vidbregar/Baking-App)
 
 # Android Jobs
 - [Discover New Android Opportunities](https://www.androidjobs.io/)
