@@ -24,6 +24,8 @@ This is the list of Android article divided into categories
 ## Activity
 - [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 - [Activity's four startup modes - illustrated](http://www.apkbj.com/news/show-2305.html)
+- [The Android Lifecycle cheat sheet — part IV :](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094?linkId=62539868)
+
 
 
 ## Fragment
@@ -208,6 +210,7 @@ This is the list of Android article divided into categories
 - [Dagger 2 on Android: The Official Guidelines You Should Be Following](https://proandroiddev.com/dagger-2-on-android-the-official-guidelines-you-should-be-following-2607fd6c002e)
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
 - [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
+- [Dagger - What's the one thing you struggle with the most when using it?](https://www.reddit.com/r/androiddev/comments/at6ad0/dagger_whats_the_one_thing_you_struggle_with_the/)
 
 # MultiMedia
 - [Introducing Oboe: A C++ library for low latency audio](https://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html?linkId=58065430)
@@ -222,6 +225,7 @@ This is the list of Android article divided into categories
 - [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
 
 # Clean Code
+- [Understanding Clean Code in Android](https://medium.com/mindorks/understanding-clean-code-in-android-ebe42ad89a99)
 - [Code Clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
 - [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
@@ -343,7 +347,9 @@ This is the list of Android article divided into categories
 - [Muzei Live Wallpaper for Android ](https://github.com/romannurik/muzei)
 - [Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)
 - [plaid](https://github.com/nickbutcher/plaid)
+- [santa-tracker-android](https://github.com/google/santa-tracker-android)
 - [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+
 
 ## Other
 - [Quran for Android](https://github.com/quran/quran_android)
@@ -354,6 +360,9 @@ This is the list of Android article divided into categories
 - [Easy-library: I completely changed my original Dagger setup, I added Data Binding](https://github.com/tfcporciuncula/easy-library)
 - [Blue-Podcast: Used some good libraries](https://github.com/vidbregar/Blue-Podcast)
 - [Baking-App: Used some good libraries](https://github.com/vidbregar/Baking-App)
+
+# Contribute
+- [Bug Reports: A Story](https://zdominguez.com/2019/02/20/bug-reports.html)
 
 # Android Jobs
 - [Discover New Android Opportunities](https://www.androidjobs.io/)
