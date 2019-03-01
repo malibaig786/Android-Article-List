@@ -96,7 +96,7 @@ This is the list of Android article divided into categories
 - [The making of AccordionView using ConstraintLayout](https://proandroiddev.com/the-making-of-accordionview-using-constraintlayout-c86992ffbb7b)
 - [ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726)
 
-### DataBinding
+## DataBinding
 - [George Mount](https://medium.com/@georgemount007)
 - [An Argument Against Data Binding](https://medium.com/@hellotimmutton/an-argument-against-data-binding-13e2aaf7a9b1)
 - [Android Data Binding + ListAdapter](https://proandroiddev.com/android-data-binding-listadapter-9e72ce50e8c7)
@@ -104,7 +104,7 @@ This is the list of Android article divided into categories
 - [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
 - [Android-Databinding-Sample](https://github.com/googlesamples/android-databinding)
 
-### ButterKnife
+## ButterKnife
 - [How you use ButterKnife's debuggable=false processor option](https://gist.github.com/JakeWharton/bbd4d37367e11dba9e388e5d59314d47)
 - [How Butterknife library works its magic](http://shikherverma.com/blog/Source-Code-Diving)
 
@@ -113,13 +113,9 @@ This is the list of Android article divided into categories
 ### Emoji
 - [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
 
-## Chrome OS
-- [Why your app should be optimized for screens of all sizes](https://medium.com/googleplaydev/more-than-mobile-friendly-547e44bc085a)
-- [Optimize apps for Chrome OS](https://developer.android.com/topic/arc/optimizing)
-- [Optimize your Android apps for Chromebooks](https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html)
-
-
-## Animation
+# Animation
+- [Animate all the things. Transitions in Android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)
+- [Transitions-Everywhere: Set of extra Transitions on top of Jetpack Transitions Library](https://github.com/andkulikov/Transitions-Everywhere)
 - [Move content to side in Drawer Layout Android](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/)
 - [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 - [Implement Google Inbox Style Animation on Android](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
