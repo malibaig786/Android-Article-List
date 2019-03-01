@@ -354,10 +354,11 @@ This is the list of Android article divided into categories
 ## From Google or there developers
 - [The Google I/O 2018 Android App](https://github.com/google/iosched)
 - [Muzei Live Wallpaper for Android ](https://github.com/romannurik/muzei)
-- [Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)
-- [plaid](https://github.com/nickbutcher/plaid)
-- [santa-tracker-android](https://github.com/google/santa-tracker-android)
 - [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)
+- [Plaid](https://github.com/nickbutcher/plaid)
+- [Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)
+- [santa-tracker-android](https://github.com/google/santa-tracker-android)
+- [todo-mvvm-live](https://github.com/googlesamples/android-architecture/tree/todo-mvvm-live)
 
 
 ## Other
