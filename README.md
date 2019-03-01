@@ -97,12 +97,25 @@ This is the list of Android article divided into categories
 - [ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726)
 
 ## DataBinding
+- [Data Binding Doc](https://developer.android.com/topic/libraries/data-binding)
 - [George Mount](https://medium.com/@georgemount007)
-- [An Argument Against Data Binding](https://medium.com/@hellotimmutton/an-argument-against-data-binding-13e2aaf7a9b1)
+- [Android working with DataBinding](https://www.androidhive.info/android-working-with-databinding/)
+- [Android DataBinding in RecyclerView – Profile Screen](https://www.androidhive.info/android-databinding-in-recyclerview-profile-screen/)
+- [Top 5 Reasons to Use Android Data Binding](https://www.captechconsulting.com/blogs/top-5-reason-to-use-android-data-binding)
+### Binding Adapter
+- [Android Data Binding: Custom Setters](https://medium.com/androiddevelopers/android-data-binding-custom-setters-55a25a7aea47)
+- [Android BindingAdapter order of execution?](https://stackoverflow.com/questions/40932933/android-bindingadapter-order-of-execution)
+- [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
+
+### Abstract Adapter
 - [Android Data Binding + ListAdapter](https://proandroiddev.com/android-data-binding-listadapter-9e72ce50e8c7)
 - [Service Locator pattern in Android](https://medium.com/inloop/service-locator-pattern-in-android-af3830924c69)
-- [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
+### DataBinding Samples
 - [Android-Databinding-Sample](https://github.com/googlesamples/android-databinding)
+- [Todo-mvvm-Databinding](https://github.com/googlesamples/android-architecture/tree/todo-mvvm-databinding)
+- [Android-Sunflower](https://github.com/googlesamples/android-sunflower)
+### DataBinding Cons
+- [An Argument Against Data Binding](https://medium.com/@hellotimmutton/an-argument-against-data-binding-13e2aaf7a9b1)
 
 ## ButterKnife
 - [How you use ButterKnife's debuggable=false processor option](https://gist.github.com/JakeWharton/bbd4d37367e11dba9e388e5d59314d47)
