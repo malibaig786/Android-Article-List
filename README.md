@@ -2,8 +2,9 @@
 This is the list of Android article divided into categories
 
 # Content
+- [New Things](#New_things)
 - [Learning Android Development](#Learning)
-- [Building](#Building)
+- [Building Block](#Building)
      - [Activity](#Activity)
      - [Fragment](#Fragment)
           - [Fragment Testing](#Testing)
@@ -13,21 +14,14 @@ This is the list of Android article divided into categories
      - [Intent](#Intent)
      - [Notification](#Notification)
      - [Context](#Context)
+- [UI](#UI)
+     - [Views_OR_Widgets](#Views_OR_Widgets)
+     - [Layouts](#Layouts)
+     - [DataBinding](#Databinding)
 
 
 # Learning Android Development
 - [Learning Android Development in 2018 — Part 1](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
-
-# Complete Tutorials
-- [Build Your First Android App: A Time Zone Converter](https://dragosholban.com/2018/02/24/build-your-first-android-app-a-time-zone-converter)
-- [Building a video player app in Android (Part 5 / 5)](https://medium.com/google-developers/building-a-video-player-app-in-android-part-5-5-725c1ec2557a)
-
-# Small apps
-- [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
-
-# Shortcuts
-- [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
-- [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
 
 # Building Blocks
 
@@ -53,20 +47,8 @@ This is the list of Android article divided into categories
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
 
-# Data presistence
-
-## SharePreference
-- [Prefekt](https://blog.stylingandroid.com/prefekt-introduction/)
-
-## Database
-- [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
-- [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
-- [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
-- [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
-- [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
-
 # UI
-## Views or Widgets
+## Views_OR_Widgets
 
 ### TextView
 - [Underspanding spans](https://medium.com/google-developers/underspanding-spans-1b91008b97e4)
