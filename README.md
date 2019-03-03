@@ -11,10 +11,6 @@ This is the list of Android article divided into categories
 # Small apps
 - [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
 
-# AndroidX
-- [AndroidX Overview](https://developer.android.com/jetpack/androidx/)
-- [Hello World, AndroidX](https://android-developers.googleblog.com/2018/05/hello-world-androidx.html)
-
 # Shortcuts
 - [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
@@ -25,8 +21,6 @@ This is the list of Android article divided into categories
 - [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 - [Activity's four startup modes - illustrated](http://www.apkbj.com/news/show-2305.html)
 - [The Android Lifecycle cheat sheet — part IV :](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iv-49946659b094?linkId=62539868)
-
-
 
 ## Fragment
 ### Introduction
@@ -56,9 +50,6 @@ This is the list of Android article divided into categories
 - [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
 - [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
 - [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
-
-## [Realm](https://realm.io/)  [(Doc)](https://realm.io/docs/)
-- [Realm Is the Best Android Database Solution](https://www.toptal.com/android/realm-best-android-database-solution)
 
 # UI
 ## Views or Widgets
@@ -117,13 +108,9 @@ This is the list of Android article divided into categories
 ### DataBinding Cons
 - [An Argument Against Data Binding](https://medium.com/@hellotimmutton/an-argument-against-data-binding-13e2aaf7a9b1)
 
-## ButterKnife
-- [How you use ButterKnife's debuggable=false processor option](https://gist.github.com/JakeWharton/bbd4d37367e11dba9e388e5d59314d47)
-- [How Butterknife library works its magic](http://shikherverma.com/blog/Source-Code-Diving)
-
-### Fonts
+## Fonts
 - [Downloadable Fonts: How does it work?](https://android.jlelse.eu/downloadable-fonts-how-does-it-work-904b9d03e5b6)
-### Emoji
+## Emoji
 - [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
 
 # Animation
@@ -275,18 +262,6 @@ This is the list of Android article divided into categories
 ## Battery
 - [Moar Power in Android 9 Pie and the future](https://android-developers.googleblog.com/2018/09/moar-power-in-android-9-pie-and-future.html?linkId=56731552)
 
-## Security
-- [Shut the HAL Up](https://android-developers.googleblog.com/2017/07/shut-hal-up.html)
-- [Hardening the Kernel in Android Oreo](https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html)
-- [Changes to Device Identifiers in Android O](https://android-developers.googleblog.com/2017/04/changes-to-device-identifiers-in.html)
-- [Android O to drop insecure TLS version fallback in HttpsURLConnection](https://android-developers.googleblog.com/2017/04/android-o-to-drop-insecure-tls-version.html)
-- [Making it safer to get apps on Android O](https://android-developers.googleblog.com/2017/08/making-it-safer-to-get-apps-on-android-o.html)
-- [Double Stuffed Security in Android Oreo](https://android-developers.googleblog.com/2017/12/double-stuffed-security-in-android-oreo.html)
-- [Android Protected Confirmation: Taking transaction security to the next level](https://android-developers.googleblog.com/2018/10/android-protected-confirmation.html)
-- [Control Flow Integrity in the Android kernel](https://android-developers.googleblog.com/2018/10/control-flow-integrity-in-android-kernel.html)
-# AI
-- [Building a Titan: Better security through a tiny chip](https://android-developers.googleblog.com/2018/10/building-titan-better-security-through.html)
-
 ## Testing
 - [Mastering the World of Android Testing (Part 2)](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
 - [The Ultimate Guide to Mobile Application Testing Strategy](http://axblog.sigos.com/ultimate-guide-mobile-application-testing-strategy?utm_source=linkedin&utm_medium=social&utm_campaign=blog20171207&utm_content=post&utm_term=dap)
@@ -342,10 +317,6 @@ This is the list of Android article divided into categories
 
 # Settings
 - [Android Preference settings preferences Raiders](http://www.apkbj.com/news/show-19952.html)
-## Libraries
-- [android-support-preference](https://github.com/consp1racy/android-support-preference)
-- [Android-Support-Preference-V7-Fix](https://github.com/Gericop/Android-Support-Preference-V7-Fix)
-- [colorpreference](https://github.com/kizitonwose/colorpreference)
 
 # Interview
 - [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
