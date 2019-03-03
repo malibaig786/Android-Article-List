@@ -189,7 +189,7 @@ ________________________________________________________________________________
 - [Article](https://www.littlerobots.nl/blog/rxlint-1.7.0/)
 - [Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
 ________________________________________________________________________________________________________________________________________
-# Network
+# Fetching_Data_Online
 
 ## Retrofit
 - [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
