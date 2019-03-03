@@ -29,7 +29,11 @@ This is the list of Android article divided into categories
      - [Camera](#Camera)
 - [Animation](#Animation)
 - [MultiThreading](#MultiThreading)
-     - [RxJava](#RxJava)     
+     - [RxJava](#RxJava)
+- [Fetching_Data_Online](#Fetching_Data_Online)
+     - [Retrofit](#Retrofit)
+     - [Gson](#Gson)
+     
 ________________________________________________________________________________________________________________________________________
 # New_things
 - [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
@@ -130,8 +134,14 @@ ________________________________________________________________________________
 # Data_Persistence
 
 ## SharedPreferences
+- [Prefekt](https://blog.stylingandroid.com/prefekt-introduction/)
 
 ## Database
+- [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
+- [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
+- [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
+- [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
+- [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
 
 ## File
 
@@ -178,7 +188,18 @@ ________________________________________________________________________________
 - [rxlint](https://bitbucket.org/littlerobots/rxlint/src/default/README.md?fileviewer=file-view-default)
 - [Article](https://www.littlerobots.nl/blog/rxlint-1.7.0/)
 - [Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
+________________________________________________________________________________________________________________________________________
+# Network
 
+## Retrofit
+- [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
+- [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
+
+## Gson
+- [Most elegant way of using Gson + Kotlin with default values and null safety](https://medium.com/@MaxMello/most-elegant-way-of-using-gson-kotlin-with-default-values-and-null-safety-b6216ac5328c)
+
+## Firebase_Firestore
+- [Understanding Cloud Firestore Security Rules](https://www.ericdecanini.com/2018/02/03/understanding-cloud-firestore-security-rules/)
 ________________________________________________________________________________________________________________________________________
 
 
@@ -193,42 +214,33 @@ ________________________________________________________________________________
 - [From design to android, part 2](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)
 
 
-# Network
+# Productivity
+- [Super charging your app development](https://android.jlelse.eu/supercharging-your-app-development-speed-with-custom-file-templates-3e6acb6db6c3)
+- [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
 
-## Retrofit
-- [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
-- [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
+## Shortcuts
+- [Pro Android Studio - Code navigation](https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/)
+- [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
 
-## Rest
-- [Building an Android Thin-Client at OkCupid](https://tech.okcupid.com/engineering-an-android-thin-client/)
+## GIT
+- [Pretty Handy](https://twitter.com/JakeWharton/status/982253714315460608)
+- [Ooga-chaka: Git hooks to enforce code quality](https://proandroiddev.com/ooga-chaka-git-hooks-to-enforce-code-quality-11ce8d0d23cb)
 
-## Gson
-- [Most elegant way of using Gson + Kotlin with default values and null safety](https://medium.com/@MaxMello/most-elegant-way-of-using-gson-kotlin-with-default-values-and-null-safety-b6216ac5328c)
+## Utilities
+- [Including Open Source Notices](https://developers.google.com/android/guides/opensource)
+- [Time for non-Time Lords](https://blog.stylingandroid.com/category/time/)
+- [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP)
+- [LogUtil often used in Android development](http://www.apkbj.com/news/show-2306.html)
 
-## Custom Type Adapter
-- [Creating a Custom Type Adapter for Moshi](https://medium.com/@emmaguy/creating-a-custom-type-adapter-for-moshi-ae7e1cf469a9)
-
-## Firebase
-- [Understanding Cloud Firestore Security Rules](https://www.ericdecanini.com/2018/02/03/understanding-cloud-firestore-security-rules/)
-
-# Build System
 ## Gradle
 - [Add build dependencies](https://developer.android.com/studio/build/dependencies)
 - [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
 - [How I reduced my Android build times by 89%](https://android.jlelse.eu/how-i-reduced-my-android-build-times-by-89-4242e51ce946)
 - [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
 
-## GIT
-- [Pretty Handy](https://twitter.com/JakeWharton/status/982253714315460608)
-- [Ooga-chaka: Git hooks to enforce code quality](https://proandroiddev.com/ooga-chaka-git-hooks-to-enforce-code-quality-11ce8d0d23cb)
+# Settings
+- [Android Preference settings preferences Raiders](http://www.apkbj.com/news/show-19952.html)
 
-## ProGuard 
-- [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
-
-# Utilities
-- [Including Open Source Notices](https://developers.google.com/android/guides/opensource)
-- [Time for non-Time Lords](https://blog.stylingandroid.com/category/time/)
-- [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP)
 
 # Android Architecture components
 - [Android Architecture: Part 1 – Every New Beginning is Hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
@@ -239,35 +251,18 @@ ________________________________________________________________________________
 - [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
 - [Types as tests: How to fail the build when there’s a logical error](https://proandroiddev.com/types-as-tests-how-to-fail-the-build-when-theres-a-logical-error-e7000e2f62b8)
 
-
-# Dagger 2
-- [Dagger 2 on Android: The Simple Way](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
-- [Dagger 2 on Android: The Official Guidelines You Should Be Following](https://proandroiddev.com/dagger-2-on-android-the-official-guidelines-you-should-be-following-2607fd6c002e)
-- [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
-- [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
-- [Dagger - What's the one thing you struggle with the most when using it?](https://www.reddit.com/r/androiddev/comments/at6ad0/dagger_whats_the_one_thing_you_struggle_with_the/)
-
-# Productivity
-- [Super charging your app development](https://android.jlelse.eu/supercharging-your-app-development-speed-with-custom-file-templates-3e6acb6db6c3)
-- [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
-
 # Clean Code
 - [Understanding Clean Code in Android](https://medium.com/mindorks/understanding-clean-code-in-android-ebe42ad89a99)
 - [Code Clean-up with Kotlin](https://proandroiddev.com/code-clean-up-with-kotlin-19ee1c8c0719)
 - [Improve Code Inspection with Annotations](https://developer.android.com/studio/write/annotations.html#adding-nullness)
 - [Simple but painful steps for writing a better code](https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86)
-
-# Architecture
 - [Separated presentation](https://medium.com/android-testing-daily/separated-presentation-9a2982bd5553)
 - [Android Architecture: Part 1 – Every New Beginning is Hard](https://proandroiddev.com/the-state-of-jetification-in-early-2019-plus-a-bonus-gradle-plugin-aac5854af910)
 - [Clean architecture on Android](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83)
-- [Introducing Slick, The Reactive MVP Framework](https://proandroiddev.com/introducing-slick-the-reactive-mvp-framework-b083222db5f9)
 - [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
 - [Repository layer using Room and Dagger 2 — Android](https://medium.com/@saurabh30pant/repository-layer-using-room-and-dagger-2-android-12d311830fd9)
-- [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
-- [Reactive Architecture — Deep Dive](https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb)
 
-# Launch your App
+# Before_Launching_your_App
 - [Automated Mobile Localization Process](https://proandroiddev.com/automated-mobile-localization-process-5e05b721bf69)
 - [Basic Android Encryption Do’s and Don’ts](https://medium.com/@tiensinodev/basic-android-encryption-dos-and-don-ts-7bc2cd3335ff)
 
@@ -293,7 +288,10 @@ ________________________________________________________________________________
 ## Battery
 - [Moar Power in Android 9 Pie and the future](https://android-developers.googleblog.com/2018/09/moar-power-in-android-9-pie-and-future.html?linkId=56731552)
 
-## Testing
+## ProGuard 
+- [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
+
+# Testing
 - [Mastering the World of Android Testing (Part 2)](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
 - [The Ultimate Guide to Mobile Application Testing Strategy](http://axblog.sigos.com/ultimate-guide-mobile-application-testing-strategy?utm_source=linkedin&utm_medium=social&utm_campaign=blog20171207&utm_content=post&utm_term=dap)
 - [Testing Android UI with Pleasure](https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821)
@@ -308,10 +306,17 @@ ________________________________________________________________________________
 - [Faster Renewals for Test Subscriptions](https://android-developers.googleblog.com/2018/01/faster-renewals-for-test-subscriptions.html)
 - [Testing in-app purchases on Android](https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878)
 
+# Dagger 2
+- [Dagger 2 on Android: The Simple Way](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
+- [Dagger 2 on Android: The Official Guidelines You Should Be Following](https://proandroiddev.com/dagger-2-on-android-the-official-guidelines-you-should-be-following-2607fd6c002e)
+- [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
+- [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
+- [Dagger - What's the one thing you struggle with the most when using it?](https://www.reddit.com/r/androiddev/comments/at6ad0/dagger_whats_the_one_thing_you_struggle_with_the/)
+
 ## Unit Testing
 - [Unit tests on Android with Kotlin](https://antonioleiva.com/unit-tests-android-kotlin)
 
-## Google Play
+# Google Play
 - [Academy for App Success](https://playacademy.exceedlms.com/student/catalog)
 - [Latest apps sories](https://developer.android.com/stories/apps/)
 - [Improving app security and performance on Google Play for years to come](https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html)
@@ -343,16 +348,13 @@ ________________________________________________________________________________
 # App Building Process
 - [Test and publish your apps with CircleCI + Fastlane + Firebase Test Lab](https://proandroiddev.com/test-and-publish-your-apps-with-circleci-fastlane-firebase-test-lab-e716c075b99b)
 
-# Utilities
-- [LogUtil often used in Android development](http://www.apkbj.com/news/show-2306.html)
-
-# Settings
-- [Android Preference settings preferences Raiders](http://www.apkbj.com/news/show-19952.html)
-
-# Interview
-- [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
+# Complete Tutorials
+- [Build Your First Android App: A Time Zone Converter](https://dragosholban.com/2018/02/24/build-your-first-android-app-a-time-zone-converter)
+- [Building a video player app in Android (Part 5 / 5)](https://medium.com/google-developers/building-a-video-player-app-in-android-part-5-5-725c1ec2557a)
+- [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
 
 # Open Source apps
+
 ## From Google or there developers
 - [The Google I/O 2018 Android App](https://github.com/google/iosched)
 - [Muzei Live Wallpaper for Android ](https://github.com/romannurik/muzei)
@@ -379,4 +381,7 @@ ________________________________________________________________________________
 # Android Jobs
 - [Discover New Android Opportunities](https://www.androidjobs.io/)
 - [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
+
+## Interview
+- [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
 
