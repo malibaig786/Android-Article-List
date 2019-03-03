@@ -53,7 +53,7 @@ This is the list of Android article divided into categories
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
 
 # UI
-## Views_OR_Widgets
+## Views OR Widgets
 
 ### TextView
 - [Underspanding spans](https://medium.com/google-developers/underspanding-spans-1b91008b97e4)
