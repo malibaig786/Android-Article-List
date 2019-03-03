@@ -3,13 +3,13 @@ This is the list of Android article divided into categories
 
 # Content
 - [Learning Android Development](#Learning)
-- [Building Blocks](#Building)
+- [Building](#Building)
      - [Activity](#Activity)
      - [Fragment](#Fragment)
-          - [Fragment](#Testing)
+          - [Fragment Testing](#Testing)
      - [Service](#Service)
-     - [BroadCast Receiver](#BroadCast Recevicer)
-     - [Content Provider](#Content Provider)
+     - [BroadCast Receiver](#BroadCast)
+     - [Content Provider](#Content)
      - [Intent](#Intent)
      - [Notification](#Notification)
      - [Context](#Context)
