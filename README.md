@@ -15,9 +15,14 @@ This is the list of Android article divided into categories
      - [Notification](#Notification)
      - [Context](#Context)
 - [UI](#UI)
-     - [Views_OR_Widgets](#Views_OR_Widgets)
+     - [Views OR Widgets](#Views_OR_Widgets)
      - [Layouts](#Layouts)
      - [DataBinding](#Databinding)
+- [Data_Persistence](#Data_Persistence)
+     - [SharedPreferences](#SharedPreferences)
+     - [Database](#Database)
+     - [File](#File)
+     - [FireBase](#Firebase)
 
 
 # Learning Android Development
