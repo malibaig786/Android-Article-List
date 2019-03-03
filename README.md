@@ -23,11 +23,23 @@ This is the list of Android article divided into categories
      - [Database](#Database)
      - [File](#File)
      - [FireBase](#Firebase)
-
-
+- [Multimedia](#Multimedia)
+     - [Audio](#Audio)
+     - [Exoplayer](#Exoplayer)
+     - [Camera](#Camera)
+- [Animation](#Animation)
+- [MultiThreading](#MultiThreading)
+     - [RxJava](#RxJava)     
+________________________________________________________________________________________________________________________________________
+# New_things
+- [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
+- [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
+- [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
+- [Instant apps](https://twitter.com/lehtimaeki/status/1058071656067928065)
+________________________________________________________________________________________________________________________________________
 # Learning Android Development
 - [Learning Android Development in 2018 — Part 1](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
-
+________________________________________________________________________________________________________________________________________
 # Building Blocks
 
 ## Activity
@@ -51,6 +63,7 @@ This is the list of Android article divided into categories
 ### Problem of Fragments
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
+________________________________________________________________________________________________________________________________________
 
 # UI
 ## Views_OR_Widgets
@@ -113,6 +126,30 @@ This is the list of Android article divided into categories
 - [Downloadable Fonts: How does it work?](https://android.jlelse.eu/downloadable-fonts-how-does-it-work-904b9d03e5b6)
 ## Emoji
 - [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
+________________________________________________________________________________________________________________________________________
+# Data_Persistence
+
+## SharedPreferences
+
+## Database
+
+## File
+
+## Firebase
+________________________________________________________________________________________________________________________________________
+
+# MultiMedia
+
+## Audio
+- [Introducing Oboe: A C++ library for low latency audio](https://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html?linkId=58065430)
+
+## ExoPlayer
+- [ExoPlayer 2.9.0 — What’s new](https://medium.com/google-exoplayer/exoplayer-2-9-0-whats-new-5aa39a3aadce?linkId=57692866)
+
+## Camera
+- [Using multiple camera streams simultaneously](https://medium.com/androiddevelopers/using-multiple-camera-streams-simultaneously-bf9488a29482?linkId=58066789)
+- [Understanding Android camera capture sessions and requests](https://medium.com/androiddevelopers/understanding-android-camera-capture-sessions-and-requests-4e54d9150295)
+________________________________________________________________________________________________________________________________________
 
 # Animation
 - [Animate all the things. Transitions in Android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)
@@ -122,6 +159,28 @@ This is the list of Android article divided into categories
 - [Implement Google Inbox Style Animation on Android](https://proandroiddev.com/implement-google-inbox-style-animation-on-android-18c261baeda6)
 - [StateListAnimator — a Powerful Little Tool for Elevation Animation](https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0)
 - [TransitionDrawable — Small Gems of the Android Framework](https://proandroiddev.com/transitiondrawable-small-gems-of-the-android-framework-4dcdd3c83319)
+________________________________________________________________________________________________________________________________________
+# MultiThreading
+
+## Loaders
+- [It’s time to ditch Loaders in Android](https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7)
+
+## Background
+- [Modern background execution in Android](https://android-developers.googleblog.com/2018/10/modern-background-execution-in-android.html?linkId=58286424)
+- [Android background in a nutshell. Part 4 — RxJava](https://proandroiddev.com/android-background-in-a-nutshell-part-4-rxjava-a41c16985d71)
+- [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
+
+## RxJava
+- [I bet your RxJava is on the wrong thread](https://lorentzos.com/i-bet-your-rxjava-is-on-the-wrong-thread-ae02e66a3eac)
+- [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
+- [RxJava - Flowables - What, when and how to use it?](http://www.aanandshekharroy.com/articles/2018-01/rxjava-flowables)
+- [RxJava — Schedulers — What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
+- [rxlint](https://bitbucket.org/littlerobots/rxlint/src/default/README.md?fileviewer=file-view-default)
+- [Article](https://www.littlerobots.nl/blog/rxlint-1.7.0/)
+- [Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
+
+________________________________________________________________________________________________________________________________________
+
 
 # Design & UX
 - [Applying human-centered design to emerging technologies](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
@@ -133,14 +192,6 @@ This is the list of Android article divided into categories
 - [From design to android, part 1](http://saulmm.github.io/from-design-to-android-part1)
 - [From design to android, part 2](https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9)
 
-## RxJava
-- [I bet your RxJava is on the wrong thread](https://lorentzos.com/i-bet-your-rxjava-is-on-the-wrong-thread-ae02e66a3eac)
-- [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
-- [RxJava - Flowables - What, when and how to use it?](http://www.aanandshekharroy.com/articles/2018-01/rxjava-flowables)
-- [RxJava — Schedulers — What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
-- [rxlint](https://bitbucket.org/littlerobots/rxlint/src/default/README.md?fileviewer=file-view-default)
-- [Article](https://www.littlerobots.nl/blog/rxlint-1.7.0/)
-- [Rx Chain Retrier](https://proandroiddev.com/rx-chain-retrier-45013616efcb)
 
 # Network
 
@@ -188,19 +239,6 @@ This is the list of Android article divided into categories
 - [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
 - [Types as tests: How to fail the build when there’s a logical error](https://proandroiddev.com/types-as-tests-how-to-fail-the-build-when-theres-a-logical-error-e7000e2f62b8)
 
-# New things
-- [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
-- [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
-- [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
-- [Instant apps](https://twitter.com/lehtimaeki/status/1058071656067928065)
-
-# MultiThreading
-## Loaders
-- [It’s time to ditch Loaders in Android](https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7)
-## Background
-- [Modern background execution in Android](https://android-developers.googleblog.com/2018/10/modern-background-execution-in-android.html?linkId=58286424)
-- [Android background in a nutshell. Part 4 — RxJava](https://proandroiddev.com/android-background-in-a-nutshell-part-4-rxjava-a41c16985d71)
-- [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 # Dagger 2
 - [Dagger 2 on Android: The Simple Way](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
@@ -208,14 +246,6 @@ This is the list of Android article divided into categories
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
 - [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
 - [Dagger - What's the one thing you struggle with the most when using it?](https://www.reddit.com/r/androiddev/comments/at6ad0/dagger_whats_the_one_thing_you_struggle_with_the/)
-
-# MultiMedia
-- [Introducing Oboe: A C++ library for low latency audio](https://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html?linkId=58065430)
-- [ExoPlayer 2.9.0 — What’s new](https://medium.com/google-exoplayer/exoplayer-2-9-0-whats-new-5aa39a3aadce?linkId=57692866)
-
-# Camera
-- [Using multiple camera streams simultaneously](https://medium.com/androiddevelopers/using-multiple-camera-streams-simultaneously-bf9488a29482?linkId=58066789)
-- [Understanding Android camera capture sessions and requests](https://medium.com/androiddevelopers/understanding-android-camera-capture-sessions-and-requests-4e54d9150295)
 
 # Productivity
 - [Super charging your app development](https://android.jlelse.eu/supercharging-your-app-development-speed-with-custom-file-templates-3e6acb6db6c3)
