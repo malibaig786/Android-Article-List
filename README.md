@@ -313,7 +313,7 @@ ________________________________________________________________________________
 - [Faster Renewals for Test Subscriptions](https://android-developers.googleblog.com/2018/01/faster-renewals-for-test-subscriptions.html)
 - [Testing in-app purchases on Android](https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878)
 
-## - [Dagger 2](https://github.com/google/dagger)
+## [Dagger 2](https://github.com/google/dagger)
 - [Dependency injection in a multi module project](https://medium.com/androiddevelopers/dependency-injection-in-a-multi-module-project-1a09511c14b7)
 - [Dagger 2 on Android: The Simple Way](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
 - [Dagger 2 on Android: The Official Guidelines You Should Be Following](https://proandroiddev.com/dagger-2-on-android-the-official-guidelines-you-should-be-following-2607fd6c002e)
