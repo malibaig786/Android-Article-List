@@ -40,6 +40,8 @@ ________________________________________________________________________________
 - [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
 - [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
 - [Instant apps](https://twitter.com/lehtimaeki/status/1058071656067928065)
+- [D8: Introduction: Used to compile your project's Java bytecode into DEX bytecode](https://developer.android.com/studio/command-line/d8)
+- [R8: R8 is a version of D8 that also performs optimization.](https://jakewharton.com/r8-optimization-staticization/)
 ________________________________________________________________________________________________________________________________________
 # Learning Android Development
 - [Learning Android Development in 2018 — Part 1](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
@@ -192,6 +194,7 @@ ________________________________________________________________________________
 # Fetching_Data_Online
 
 ## Retrofit
+- [Retrofit meets coroutines](https://zsmb.co/retrofit-meets-coroutines/)
 - [How to use Retrofit on android with Kotlin (KAD 21)](https://antonioleiva.com/retrofit-android-kotlin)
 - [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
 
@@ -310,12 +313,16 @@ ________________________________________________________________________________
 - [Faster Renewals for Test Subscriptions](https://android-developers.googleblog.com/2018/01/faster-renewals-for-test-subscriptions.html)
 - [Testing in-app purchases on Android](https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878)
 
-# Dagger 2
+## - [Dagger 2](https://github.com/google/dagger)
+- [Dependency injection in a multi module project](https://medium.com/androiddevelopers/dependency-injection-in-a-multi-module-project-1a09511c14b7)
 - [Dagger 2 on Android: The Simple Way](https://proandroiddev.com/dagger-2-on-android-the-simple-way-f706a2c597e9)
 - [Dagger 2 on Android: The Official Guidelines You Should Be Following](https://proandroiddev.com/dagger-2-on-android-the-official-guidelines-you-should-be-following-2607fd6c002e)
 - [Moving from Dagger to Koin — Simplify your Android development](https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb)
 - [How to use Dagger 2 on Android with Kotlin (KAD 20)](https://antonioleiva.com/dagger-android-kotlin)
 - [Dagger - What's the one thing you struggle with the most when using it?](https://www.reddit.com/r/androiddev/comments/at6ad0/dagger_whats_the_one_thing_you_struggle_with_the/)
+
+### Dagger_Videos
+- [Helping Dagger Help You](https://jakewharton.com/helping-dagger-help-you/)
 
 ## Unit Testing
 - [Unit tests on Android with Kotlin](https://antonioleiva.com/unit-tests-android-kotlin)
