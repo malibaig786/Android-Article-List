@@ -183,6 +183,7 @@ ________________________________________________________________________________
 - [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
 ## RxJava
+- [RxAndroid’s New Async API](https://medium.com/@ZacSweers/rxandroids-new-async-api-4ab5b3ad3e93)
 - [I bet your RxJava is on the wrong thread](https://lorentzos.com/i-bet-your-rxjava-is-on-the-wrong-thread-ae02e66a3eac)
 - [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
 - [RxJava - Flowables - What, when and how to use it?](http://www.aanandshekharroy.com/articles/2018-01/rxjava-flowables)
@@ -234,6 +235,11 @@ ________________________________________________________________________________
 - [Time for non-Time Lords](https://blog.stylingandroid.com/category/time/)
 - [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP)
 - [LogUtil often used in Android development](http://www.apkbj.com/news/show-2306.html)
+
+### Utils_RxJava
+- [RxRelay: RxJava types that are both an Observable and a Consumer.](https://github.com/JakeWharton/RxRelay)
+- [RxReplayingShare: An RxJava 2 transformer which combines replay(1), publish(), and refCount() operators.](https://github.com/JakeWharton/RxReplayingShare)
+- [RxIdler: An IdlingResource for Espresso which wraps an RxJava](https://github.com/square/RxIdler)
 
 ## Gradle
 - [Add build dependencies](https://developer.android.com/studio/build/dependencies)
@@ -374,6 +380,7 @@ ________________________________________________________________________________
 - [Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)
 - [santa-tracker-android](https://github.com/google/santa-tracker-android)
 - [todo-mvvm-live](https://github.com/googlesamples/android-architecture/tree/todo-mvvm-live)
+- [SdkSearch](https://github.com/JakeWharton/SdkSearch)
 
 
 ## Other
