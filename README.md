@@ -291,6 +291,10 @@ ________________________________________________________________________________
 ## ProGuard 
 - [Troubleshooting ProGuard issues on Android](https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 
+# Tools
+- [Bugsnag:Bugsnag monitors application stability, so you can make data-driven decisions on whether you should be building new features, or fixing bugs.](https://www.bugsnag.com/)
+- [Stetho:A debug bridge for Android applications.With Setho we can use chrome Developer Tools feature natively part of the Chrome desktop browser](http://facebook.github.io/stetho/)
+
 # Testing
 - [Mastering the World of Android Testing (Part 2)](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
 - [The Ultimate Guide to Mobile Application Testing Strategy](http://axblog.sigos.com/ultimate-guide-mobile-application-testing-strategy?utm_source=linkedin&utm_medium=social&utm_campaign=blog20171207&utm_content=post&utm_term=dap)
