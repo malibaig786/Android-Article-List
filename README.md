@@ -40,7 +40,7 @@ ________________________________________________________________________________
 - [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
 - [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
 - [Instant apps](https://twitter.com/lehtimaeki/status/1058071656067928065)
-- [D8: Introduction: Used to compile your project's Java bytecode into DEX bytecode](https://developer.android.com/studio/command-line/d8)
+- [D8: Used to compile your project's Java bytecode into DEX bytecode](https://developer.android.com/studio/command-line/d8)
 - [R8: R8 is a version of D8 that also performs optimization.](https://jakewharton.com/r8-optimization-staticization/)
 ________________________________________________________________________________________________________________________________________
 # Learning Android Development
