@@ -159,6 +159,7 @@ ________________________________________________________________________________
 - [Respecting Audio Focus: Offical](https://android-developers.googleblog.com/2013/08/respecting-audio-focus.html)
 - [Understanding Audio Focus (Part 1 / 3: Offical](https://medium.com/androiddevelopers/audio-focus-1-6b32689e4380)
 - [How to _properly_ handle audio interruptions: Offical](https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa)
+- [OLD: Managing Audio Focus: OFFICAL](https://stuff.mit.edu/afs/sipb/project/android/docs/training/managing-audio/audio-focus.html)
 - [Handling Audio Focus In Android](http://markojerkic.com/handling-audio-focus-in-android/)
 
 ## Audio
