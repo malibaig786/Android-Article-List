@@ -24,6 +24,7 @@ This is the list of Android article divided into categories
      - [File](#File)
      - [FireBase](#Firebase)
 - [Multimedia](#Multimedia)
+     - [Audio_Focus](#Audio_Focus)
      - [Audio](#Audio)
      - [Exoplayer](#Exoplayer)
      - [Camera](#Camera)
@@ -151,6 +152,14 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 # MultiMedia
+- [Audio & Video](https://developer.android.com/guide/topics/media)
+
+## Audio_Focus
+- [Managing audio focus: Offical](https://developer.android.com/guide/topics/media-apps/audio-focus)
+- [Respecting Audio Focus: Offical](https://android-developers.googleblog.com/2013/08/respecting-audio-focus.html)
+- [Understanding Audio Focus (Part 1 / 3: Offical](https://medium.com/androiddevelopers/audio-focus-1-6b32689e4380)
+- [How to _properly_ handle audio interruptions: Offical](https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa)
+- [Handling Audio Focus In Android](http://markojerkic.com/handling-audio-focus-in-android/)
 
 ## Audio
 - [Introducing Oboe: A C++ library for low latency audio](https://android-developers.googleblog.com/2018/10/introducing-oboe-c-library-for-low.html?linkId=58065430)
