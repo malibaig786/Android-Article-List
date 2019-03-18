@@ -70,6 +70,9 @@ ________________________________________________________________________________
 ### Problem of Fragments
 - [Advocating Against Android Fragments](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97)
 - [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
+
+## Notification
+- [Android Notification Styling](https://www.journaldev.com/15468/android-notification-styling)
 ________________________________________________________________________________________________________________________________________
 
 # UI
