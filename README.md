@@ -403,18 +403,15 @@ ________________________________________________________________________________
 - [Simple Mobile: Multiple Apps](https://www.simplemobiletools.com/)
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 - [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)
-- [Material Design Music Player](https://github.com/naman14/Timber)
 - [Materialistic: A material-design Hacker News Android reader ](https://github.com/hidroh/materialistic)
 - [Easy-library: I completely changed my original Dagger setup, I added Data Binding](https://github.com/tfcporciuncula/easy-library)
 - [Blue-Podcast: Used some good libraries](https://github.com/vidbregar/Blue-Podcast)
 - [Baking-App: Used some good libraries](https://github.com/vidbregar/Baking-App)
-- [UITesting](https://github.com/JSBerrocoso/UITesting)
 - [Dagger-Kotlin-20line](https://github.com/mohamedebrahim96/Dagger-Kotlin-20line)
 - [The ownCloud Android App](https://github.com/owncloud/android)
 - [Nextcloud Android app](https://github.com/nextcloud/android)
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
 - [PaperPlane](https://github.com/TonnyL/PaperPlane)
-
 
 
 ## TODO List
@@ -426,6 +423,22 @@ ________________________________________________________________________________
 
 ## Material Design
 - [kickmaterial](https://github.com/byoutline/kickmaterial)
+- [Material Design Music Player](https://github.com/naman14/Timber)
+- [kotlin-life](https://github.com/Cuieney/kotlin-life)
+- [Douya](https://github.com/DreaminginCodeZH/Douya)
+- [MagicPrint-ECommerce-App-Android](https://github.com/singhkshitij/MagicPrint-ECommerce-App-Android)
+- [LeafPic](https://github.com/HoraApps/LeafPic)
+- [ECommerce-App-Android](https://github.com/hiteshsahu/ECommerce-App-Android)
+- [talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android)
+
+# Testing
+- [Memento2](https://github.com/mdnaseemashraf/Memento2)
+- [UITesting](https://github.com/JSBerrocoso/UITesting)
+
+# Material Design + MVP + RxJava
+- [Ghost](https://github.com/GeekGhost/Ghost)
+- [AndroidFire](https://github.com/jaydenxiao2016/AndroidFire)
+
 
 
 # Contribute
