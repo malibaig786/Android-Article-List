@@ -394,10 +394,13 @@ ________________________________________________________________________________
 - [santa-tracker-android](https://github.com/google/santa-tracker-android)
 - [todo-mvvm-live](https://github.com/googlesamples/android-architecture/tree/todo-mvvm-live)
 - [SdkSearch](https://github.com/JakeWharton/SdkSearch)
+- [tivi](https://github.com/chrisbanes/tivi)
+- [JakeWharton/u2020: A sample Android app which showcases advanced usage of Dagger among other open source libraries.](https://github.com/JakeWharton/u2020)
 
 
 ## Other
 - [Quran for Android](https://github.com/quran/quran_android)
+- [Simple Mobile: Multiple Apps](https://www.simplemobiletools.com/)
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 - [kotlinconf-app](https://github.com/JetBrains/kotlinconf-app)
 - [Material Design Music Player](https://github.com/naman14/Timber)
@@ -405,6 +408,25 @@ ________________________________________________________________________________
 - [Easy-library: I completely changed my original Dagger setup, I added Data Binding](https://github.com/tfcporciuncula/easy-library)
 - [Blue-Podcast: Used some good libraries](https://github.com/vidbregar/Blue-Podcast)
 - [Baking-App: Used some good libraries](https://github.com/vidbregar/Baking-App)
+- [UITesting](https://github.com/JSBerrocoso/UITesting)
+- [Dagger-Kotlin-20line](https://github.com/mohamedebrahim96/Dagger-Kotlin-20line)
+- [The ownCloud Android App](https://github.com/owncloud/android)
+- [Nextcloud Android app](https://github.com/nextcloud/android)
+- [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
+- [PaperPlane](https://github.com/TonnyL/PaperPlane)
+
+
+
+## TODO List
+- [Minimal-Todo](https://github.com/avjinder/Minimal-Todo)
+- [MVVM-To-Do-App](https://github.com/Naveentp/MVVM-To-Do-App)
+- [android-minimal-todo](https://github.com/cuongpm/android-minimal-todo)
+- [WanAndroid](https://github.com/iceCola7/WanAndroid)
+- [Firebucket](https://github.com/remychantenay/Firebucket)
+
+## Material Design
+- [kickmaterial](https://github.com/byoutline/kickmaterial)
+
 
 # Contribute
 - [Bug Reports: A Story](https://zdominguez.com/2019/02/20/bug-reports.html)
