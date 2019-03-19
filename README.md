@@ -393,9 +393,12 @@ ________________________________________________________________________________
 - [Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)
 - [santa-tracker-android](https://github.com/google/santa-tracker-android)
 - [todo-mvvm-live](https://github.com/googlesamples/android-architecture/tree/todo-mvvm-live)
+- [android-architecture](https://github.com/googlesamples/android-architecture)
 - [SdkSearch](https://github.com/JakeWharton/SdkSearch)
 - [tivi](https://github.com/chrisbanes/tivi)
 - [JakeWharton/u2020: A sample Android app which showcases advanced usage of Dagger among other open source libraries.](https://github.com/JakeWharton/u2020)
+- [Sunshine-Version-2](https://github.com/udacity/Sunshine-Version-2)
+- []()
 
 
 ## Other
@@ -412,6 +415,9 @@ ________________________________________________________________________________
 - [Nextcloud Android app](https://github.com/nextcloud/android)
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
 - [PaperPlane](https://github.com/TonnyL/PaperPlane)
+- [LookLook](https://github.com/xinghongfei/LookLook)
+- [android-movies-app](https://github.com/vpaliy/android-movies-app)
+- [bodyweight-fitness-android](https://github.com/mazurio/bodyweight-fitness-android)
 
 
 ## TODO List
@@ -430,6 +436,13 @@ ________________________________________________________________________________
 - [LeafPic](https://github.com/HoraApps/LeafPic)
 - [ECommerce-App-Android](https://github.com/hiteshsahu/ECommerce-App-Android)
 - [talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android)
+- [What2Do](https://github.com/Aayushjn/What2Do)
+- [TravelWithList](https://github.com/gshockv/TravelWithList)
+- [Minimal_ToDo](https://github.com/rob729/Minimal_ToDo)
+- [CaptainChef](https://github.com/bapspatil/CaptainChef)
+- [Moviemade](https://github.com/michaelbel/Moviemade)
+- [BottomAppBarImplementation](https://github.com/ranger163/BottomAppBarImplementation)
+- [Material-Componets-Catalog](https://github.com/nikhilbansal97/Material-Componets-Catalog)
 
 # Testing
 - [Memento2](https://github.com/mdnaseemashraf/Memento2)
@@ -438,6 +451,30 @@ ________________________________________________________________________________
 # Material Design + MVP + RxJava
 - [Ghost](https://github.com/GeekGhost/Ghost)
 - [AndroidFire](https://github.com/jaydenxiao2016/AndroidFire)
+- [GitNav: GitHub Android App](https://github.com/GLodi/GitNav)
+- [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
+- [MovieGuide](https://github.com/esoxjem/MovieGuide)
+- [MvpApp](https://github.com/Rukey7/MvpApp)
+- [android-kotlin-mvp-architecture](https://github.com/MindorksOpenSource/android-kotlin-mvp-architecture)
+- [An Android app for dribbble.com](https://github.com/TonnyL/Mango)
+
+# High Profile Apps
+- [Lawnchair](https://github.com/LawnchairLauncher/Lawnchair)
+- [uhabits](https://github.com/iSoron/uhabits)
+- [conference-app-2018](https://github.com/DroidKaigi/conference-app-2018)
+- [open-event-android](https://github.com/fossasia/open-event-android)
+- [duckduckgo/Android](https://github.com/duckduckgo/Android)
+
+# MVVM + Architecture Components
+- [YoutubeUX](https://github.com/burhanrashid52/YoutubeUX)
+- [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample)
+- [countries](https://github.com/patloew/countries)
+- [crweather](https://github.com/elpassion/crweather)
+- [android-arch-news-sample](https://github.com/AkshayChordiya/android-arch-news-sample)
+- [Android-Architecture-Components](https://github.com/KucherenkoIhor/Android-Architecture-Components)
+- [kotlin-architecture-components](https://github.com/satorufujiwara/kotlin-architecture-components)
+
+
 
 
 
