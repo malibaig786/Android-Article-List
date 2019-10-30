@@ -488,3 +488,8 @@ ________________________________________________________________________________
 ## Interview
 - [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
 
+# Runtime Permissions
+- [Request App Permissions](https://developer.android.com/training/permissions/requesting)
+- [Request permissions at runtime appropriately](https://developer.android.com/distribute/best-practices/develop/runtime-permissions)
+- [EasyPermissions](https://github.com/googlesamples/easypermissions)
+
