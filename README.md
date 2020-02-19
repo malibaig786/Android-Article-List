@@ -18,6 +18,8 @@ This is the list of Android article divided into categories
      - [Views_OR_Widgets](#Views_OR_Widgets)
      - [Layouts](#Layouts)
      - [DataBinding](#Databinding)
+- [Animations](#ANIMATIONS)
+  - [MotionLayout](#MotionLayout)
 - [Data_Persistence](#Data_Persistence)
      - [SharedPreferences](#SharedPreferences)
      - [Database](#Database)
@@ -98,6 +100,7 @@ ________________________________________________________________________________
 - [How to Add Multiple Selection to Android RecyclerView](https://code.tutsplus.com/tutorials/how-to-add-selection-support-to-a-recyclerview--cms-32175)
 - [Inside RecyclerView’s SnapHelper](https://proandroiddev.com/android-recyclerview-snaphelper-19eaa9598da6)
 - [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
+- [DiffUtil](https://developer.android.com/reference/android/support/v7/util/DiffUtil)
 
 ## Layouts
 - [Android Tools Attributes — Hidden Gems of Android Studio](https://android.jlelse.eu/tools-attributes-hidden-gems-of-android-studio-d7451b194e0b)
@@ -137,6 +140,25 @@ ________________________________________________________________________________
 ## Emoji
 - [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
 ________________________________________________________________________________________________________________________________________
+# Animations
+## MotionLayout
+- [Complex UI/Animations on Android](https://proandroiddev.com/complex-ui-animations-on-android-featuring-motionlayout-aa82d83b8660)
+________________________________________________________________________________________________________________________________________
+# ViewPager 1
+- [Android How to Build Intro Slider for your App](https://www.androidhive.info/2016/05/android-build-intro-slider-app/)
+
+# ViewPager 2
+- [Why ViewPager2?](https://medium.com/google-developer-experts/exploring-the-view-pager-2-86dbce06ff71)
+- [Why ViewPager2?](https://proandroiddev.com/look-deep-into-viewpager2-13eb8e06e419)
+- [ViewPager2 Offical](https://developer.android.com/jetpack/androidx/releases/viewpager2)
+- [ViewPager2 Example 1](https://www.androidhive.info/2020/01/viewpager2-pager-transformations-intro-slider-pager-animations-pager-transformations/)
+- [ViewPager2 Example 2](https://developer.android.com/training/animation/screen-slide-2)
+- [ViewPager2 Example 3: Dots library](https://ahsensaeed.com/android-viewpager2-example-tutorial/)
+- [ViewPager2 Tabs Example 1](https://androidwave.com/viewpager2-with-fragments-android-example/)
+- [ViewPager2 Tabs Example 2](https://blog.stylingandroid.com/viewpager2/)
+
+
+
 # Data_Persistence
 
 ## SharedPreferences
