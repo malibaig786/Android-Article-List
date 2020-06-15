@@ -2,7 +2,7 @@
 This is the list of Android article divided into categories
 
 # Content
-- [New Things](#Hacking)
+- [Hacking](#Hacking)
 - [New Things](#New_things)
 - [Learning Android Development](#Learning)
 - [Building Block](#Building)
