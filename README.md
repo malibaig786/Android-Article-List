@@ -38,6 +38,9 @@ This is the list of Android article divided into categories
      - [Gson](#Gson)
      
 ________________________________________________________________________________________________________________________________________
+# Hacking
+- [How to avoid reverse engineering of an APK file?](https://stackoverflow.com/questions/13854425/how-to-avoid-reverse-engineering-of-an-apk-file?noredirect=1&lq=1)
+- [How can I protect sqlite db in android from being stolen](https://stackoverflow.com/questions/20842060/how-can-i-protect-sqlite-db-in-android-from-being-stolen)
 # New_things
 - [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
 - [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
@@ -165,11 +168,15 @@ ________________________________________________________________________________
 - [Prefekt](https://blog.stylingandroid.com/prefekt-introduction/)
 
 ## Database
-- [Realm, ObjectBox or Room. Which one is for you?](https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e)
-- [Stress-free SQLite with Anko](https://www.kotlindevelopment.com/anko-sqlite-database/)
-- [Implements SupportSQLite interfaces](https://github.com/gabrielittner/support-db-requery)
-- [The Resurgence of SQL (Droidcon NYC 2017)](https://speakerdeck.com/jakewharton/the-resurgence-of-sql-droidcon-nyc-2017)  (https://github.com/AlecStrong/resurgenceofsql)
+- [Android password protect sqlite](https://stackoverflow.com/questions/29125417/android-password-protect-sqlite)
+- [What are the best practices for SQLite on Android?](https://stackoverflow.com/questions/2493331/what-are-the-best-practices-for-sqlite-on-android?rq=1)
+- [Improve INSERT-per-second performance of SQLite](https://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite?rq=1)
 - [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
+### SQLCipher
+- [Bulletproof Android: Practical Advice for Building Secure Apps](https://www.informit.com/articles/article.aspx?p=2268753&seqNum=3)
+- [Encrypting database with Room createFromAsset() method](https://discuss.zetetic.net/t/encrypting-database-with-room-createfromasset-method/4458)
+- [How to apply SQLCipher to pre-existing Room database?](https://discuss.zetetic.net/t/how-to-apply-sqlcipher-to-pre-existing-room-database/4320)
+- [SQLCipher with Room Persistence Library exception in SQLCipherUtils.getDatabaseState](https://stackoverflow.com/questions/53452700/sqlcipher-with-room-persistence-library-exception-in-sqlcipherutils-getdatabases)
 
 ## File
 
