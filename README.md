@@ -43,6 +43,7 @@ ________________________________________________________________________________
 - [How to avoid reverse engineering of an APK file?](https://stackoverflow.com/questions/13854425/how-to-avoid-reverse-engineering-of-an-apk-file?noredirect=1&lq=1)
 - [How can I protect sqlite db in android from being stolen](https://stackoverflow.com/questions/20842060/how-can-i-protect-sqlite-db-in-android-from-being-stolen)
 # New_things
+- [Now in Android #20](https://medium.com/androiddevelopers/now-in-android-20-9f2072f43ed6)
 - [App Actions & Slices — Extending your app to Google Search & Google Assistant](https://android.jlelse.eu/app-actions-slices-extending-your-app-to-google-search-google-assistant-30dd803d4e79)
 - [Android App Bundle](https://twitter.com/GooglePlayDev/status/1054429042034782208)
 - [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
@@ -51,6 +52,8 @@ ________________________________________________________________________________
 - [R8: R8 is a version of D8 that also performs optimization.](https://jakewharton.com/r8-optimization-staticization/)
 ________________________________________________________________________________________________________________________________________
 # Learning Android Development
+- [CodePath Android Cliffnotes(Learning Map)](https://guides.codepath.com/android)
+- [Discussions:Three upcoming AMAs with the Android team!](https://www.reddit.com/r/androiddev/comments/hf6l0h/announcement_three_upcoming_amas_with_the_android/)
 - [Learning Android Development in 2018 — Part 1](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
 ________________________________________________________________________________________________________________________________________
 # Building Blocks
@@ -173,6 +176,7 @@ ________________________________________________________________________________
 - [What are the best practices for SQLite on Android?](https://stackoverflow.com/questions/2493331/what-are-the-best-practices-for-sqlite-on-android?rq=1)
 - [Improve INSERT-per-second performance of SQLite](https://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite?rq=1)
 - [A Survey of Object-Relational Mapping (ORM) Libraries for Android and iOS](https://dzone.com/articles/a-survey-of-object-relational-mapping-orm-librarie)
+- [Android-ORM-benchmark](https://github.com/AlexeyZatsepin/Android-ORM-benchmark)
 ### SQLCipher
 - [Bulletproof Android: Practical Advice for Building Secure Apps](https://www.informit.com/articles/article.aspx?p=2268753&seqNum=3)
 - [Encrypting database with Room createFromAsset() method](https://discuss.zetetic.net/t/encrypting-database-with-room-createfromasset-method/4458)
@@ -288,6 +292,7 @@ ________________________________________________________________________________
 - [Add build dependencies](https://developer.android.com/studio/build/dependencies)
 - [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
 - [How I reduced my Android build times by 89%](https://android.jlelse.eu/how-i-reduced-my-android-build-times-by-89-4242e51ce946)
+- [Making incremental KAPT work (Speed Up your Kotlin projects!)](https://medium.com/@daniel_novak/making-incremental-kapt-work-speed-up-your-kotlin-projects-539db1a771cf)
 - [Using Gradle build cache with Kotlin](https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/)
 
 # Settings
@@ -319,6 +324,8 @@ ________________________________________________________________________________
 - [Basic Android Encryption Do’s and Don’ts](https://medium.com/@tiensinodev/basic-android-encryption-dos-and-don-ts-7bc2cd3335ff)
 
 ## Debugging
+- [Debugging in Android Studio](https://medium.com/androiddevelopers/debugging-in-android-studio-dfbbf8a8d03c)
+- [How to Display Dependency Tree of Your Android Project with Gradle?](https://wajahatkarim.com/2020/03/gradle-dependency-tree/)
 - [Finding inter-procedural bugs at scale with Infer static analyzer](https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer/)
 - [Hide your crashes gracefully (and still report them)](https://proandroiddev.com/hide-your-crashes-gracefully-and-still-report-them-9b1c85b25875)
 - [Making the most out of Android Studio Debugger](https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065)
